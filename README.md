@@ -25,7 +25,7 @@ There is a wide range of staff at Darlinghurst, who have varied and valuable ski
 
 You can find a full [staff list](http://www.darlinghurst.uk/school/staff/) on the school website.
 
-##Teachers
+##Teaching staff
 
 ###Principal and assistant principals
 
@@ -76,7 +76,7 @@ ensuring children are supervised and kept safe during Breakfast Club, at lunch t
 
 If you would like to become a Midday, contact [principal@darlinghurst.co.uk](principal@darlinghurst.co.uk)
 
-#Parent–school communication 
+#Parent–school Communication 
 
 [To be added]
 
@@ -166,7 +166,7 @@ The Junior Governors make sure that children have a voice in decisions about the
 have discussed issues such as healthy eating, homework, and deciding which local charity to support They also take part in
 interviewing new teachers. 
 
-#Preparing your child for school 
+#Preparing Your Child for School 
 
 [To be added.]
 
@@ -174,7 +174,7 @@ interviewing new teachers.
 
 [To be added]
 
-#Dropping off and picking up children 
+#The School Day
 
 ##School opening and closing times
 
@@ -216,7 +216,7 @@ available in surrounding streets, but these are residential and parents are aske
 neighbours. Inconsiderate parking across local driveways, on double yellow lines, and directly in front of the school has been an
 issue in the past, and local residents have complained. 
 
-#Attendance
+##Attendance
 Regular attendance and punctuality is essential if children are to make maximum progress in their education. Although attendance and
 punctuality have improved, Darlinghurst needs families’ help to make sure this continues.
 
@@ -229,7 +229,7 @@ appropriate, parents/carers must let the school know why children will not be at
 School policy is to call parents on the first day of absence if they have not been in contact beforehand. On return to school,
 children should bring a signed note/letter detailing the illness and action taken.
 
-##Family holidays in term time
+###Family holidays in term time
 
 Any absence from school needs to be avoided wherever possible because it can have a serious effect on young children’s education
 and development. The school will not give permission for any term-time holidays.
@@ -250,13 +250,11 @@ If you need any help or advice about attendance, the school Family Liaison Offic
 Tel: 01702 509203
 Email: [pupilservices@darlinghurst.co.uk](pupilservices@darlinghurst.co.uk)
 
-#The school day 
+##Daily routine 
 
 Classrooms are open from 8.30am. The register closes at 8.55am. If children arrive after this time they will be marked as late.
 
 If you arrive after 8.55am, you should go to the School Office, at the front of the school, and a member of staff will take children to their classroom or the nursery.
-
-##Daily routine
 
 **Nursery**
 Morning session: 8.30–11.30am
@@ -287,15 +285,15 @@ Lunch times are staggered:
 * Key Stage 1: 12.15–1.15pm
 *Key Stage 2: 12.30–1.30pm
 
-#Breakfast, lunch and afterschool clubs 
+##Breakfast, lunch and afterschool clubs 
 
-##Breakfast Club 
+###Breakfast Club 
 The Breakfast Club is open to all Darlinghurst pupils. It opens at 7.45am and costs £2.00 per child per morning. Parents must contact the School Office to confirm a place before children can attend.
 
-##Acorns Afterschool Club
+###Acorns Afterschool Club
 Acorns is separate and different from afterschool activity clubs. Pupils can attend from 3.30pm to 6.00pm for £6 per day (£5 if you pay in advance). 
 
-##Lunchtime and afterschool activities
+###Lunchtime and afterschool activities
 
 Other lunch time and after school clubs are rotated by staff each half term. Every child will have the opportunity to sign up for at
 least one club at some point during the year. If spaces are limited, children who have not been able to go to any clubs before then
@@ -303,11 +301,11 @@ get priority.
 
 _To drop off and pick up children from clubs out of normal school hours you can access the school through the carpark entrance._
 
-#Lunch and school meals
+##Lunch and school meals
 For most pupils, school lunches cost £2 per child. You should pay at the start of the week by giving the money in an envelope to the class teacher. You can buy envelopes from the School Office. You can also pay in advance by cheque, making cheques payable to
 Darlinghurst School and handing them in at the School Office.
 
-##Free school meals
+###Free school meals
 All children in Reception and years 1 and 2 are currently entitled to free school meals under the universal infant free school meals
 scheme. 
 
@@ -326,7 +324,7 @@ _Children who receive income support in their own name also qualify._
 
 You can apply online if you are [applying for free school meals](www.southend.gov.uk/fsm) for the first time. For free school meal renewal, you need to complete a ‘Registration for free school meals and Pupil Premium’. [SUPPLY LINK}
 
-##The school menu
+###The school menu
 The school kitchen prepares all meals from scratch with fresh ingredients. 
 
 Read the current [Darlinghurst lunch menu] SUPPLY LINK
@@ -342,7 +340,7 @@ Occasionally, it may be necessary to change menu items, but the kitchen will not
 * No GM ingredients, undesirable additives or hydrogenated fats are used
 * Menus are seasonal and include seasonal local produce
 
-##Packed lunches
+###Packed lunches
 Darlinghurst encourages children to bring healthy packed lunches to school. Packed lunches should not contain glass bottles, cans of
 fizzy drinks or sweets. 
 
@@ -875,7 +873,7 @@ Teachers are always in need of volunteers to help supervise the trips.
 It may be possible to get financial help with school trips. If you think you qualify, ask at the School Office for more information
 [pupilservices@darlinghurst.co.uk](pupilservices@darlinghurst.co.uk)
 
-#Promoting positive Behaviour
+#Promoting positive behaviour
 
 Teachers at Darlinghurst promoting positive behaviour through the curriculum and learning. They do this by involving children and
 making them feel included and valued. They even do it using the design and layout of classrooms, which should encourage children’s
@@ -895,7 +893,7 @@ Teachers and children also talk about the [Behaviour Pyramid]http://www.darlingh
 
 For more information, see Darlinghurst’s [Promoting Positive Behaviour Policy](http://www.darlinghurst.uk/documents/behaviour-policy.pdf).
 
-##School Rewards
+##School rewards
 
 Teachers at Darlinghurst believe in using rewards to promote positive behaviour. Rewards include:
 
@@ -910,7 +908,20 @@ Teachers at Darlinghurst believe in using rewards to promote positive behaviour.
 
 >_A Golden Ticket winner is dearwn each week. Prizes have included ..._
 
-#Health and wellbeing
+## Darlinghurst’s School Houses
+
+Darlinghurst is divided into four teams or houses, named after Knights of the Round Table: Sir Lancelot, Sir Galahad, Sir Gareth and
+Sir Dinadan. 
+
+>_The legendary knights who sat at King Arthur’s **Round Table** were known for their bravery and determination, but were also
+chivalrous (polite). The knights sat at a round table, rather than a rectangular one, so they could always see and hear one another,
+and it meant that they were equal._
+
+The children receive house points to reward positive behaviour, especially when it is above and beyond what teachers’ would normally
+expect. This rewards courteous and collaborative behaviour, and encourage children to work well and respect everyone in the
+community.
+
+#Health and Wellbeing
 
 ##Illness and accidents
 
@@ -967,11 +978,11 @@ For more information, see the school's [Special Educational Needs Policy](http:/
 
 You can also contact the school Inclusion Leader and Special Educational Needs Coordinator (SENCo) Mrs Grant: [mrsgrant@darlinghurst.co.uk](mrsgrant@darlinghurst.co.uk)
 
-#Pupil Premium
+##Pupil Premium
 
 [To be added.]
 
-#Young Carers
+##Young Carers
 
 Young Carers are children under 18 years of age who help to look after a family member who is disabled, physically or mentally ill or
 has substance misuse problems. Caring can involve physical or emotional care or taking responsibility for someone’s safety or
@@ -988,7 +999,7 @@ For more information see Darlinghurst’s [Young Carers Policy](http://www.darli
 
 #Bilingual children 
 
-##Raising and Educating Bilingual Children
+##Raising and educating bilingual children
 Being able to speak two languages has numerous educational, social and economic benefits, particularly in an increasingly globalised
 world. For many parents of different cultures, it provides their child with a link to their family heritage. 
 
