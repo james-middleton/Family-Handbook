@@ -108,7 +108,7 @@ Meeting dates are usually advertised well in advance in the weekly [News & Views
 You will get these automatically if you have already registered your mobile number with the School Office.
 
 ###What is it about? 
-Quite simply, the PTA can use any spare time that you are willing to give. You could be making tea at children's performances, 
+The PTA can use any spare time that you are willing to give. You could be making tea at children's performances, 
 dressing as an elf for the Christmas fair, making cakes or looking after a bouncy castle at an inflatable fun day. Any contributions 
 of time or skills are gratefully received.
 
@@ -134,7 +134,7 @@ for example, how they do in reading writing and maths – and in an enjoyable an
 
 To see for themselves, the governors visit the school and talk with staff, children, parents and carers. They are also part of important recruitment and financial decisions.
 
->_The Governing Body works with the principal and senior teachers to design the annual **[Academy Improvement Plan]**( http://www.darlinghurst.uk/school/improvement-plan/) and checks that
+>_The Governing Body works with the principal and senior teachers to design the annual [**Academy Improvement Plan**]( http://www.darlinghurst.uk/school/improvement-plan/) and checks that
 >teachers are following this._
 
 The Governing Body meets once a month. It is made up of 10 governors, who include the Darlinghurst principal and at least one other staff member, and two elected parent governors. 
