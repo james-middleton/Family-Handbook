@@ -1,4 +1,5 @@
-# Family-Handbook
+#Family Handbook
+
 ##A guide to the school for parents, carers and other family members
 
 #Introduction 
@@ -76,7 +77,7 @@ ensuring children are supervised and kept safe during Breakfast Club, at lunch t
 
 If you would like to become a Midday, contact [principal@darlinghurst.co.uk](principal@darlinghurst.co.uk)
 
-#Parent–school Communication 
+#Parent–School Communication 
 
 [To be added]
 
@@ -541,7 +542,7 @@ underpin all work in school. In particular, Darlinghurst teaches sex education i
 For more information, see Darlinghurst’s [Relationship and Sex Education Policy](http://www.darlinghurst.uk/documents/relationship-and-sex-education-policy-2015.pdf) or contact Assistant Principal Mrs Cooke
 [mrscooke@darlinghurst.co.uk](mrscooke@darlinghurst.co.uk)
 
-##Computing and Coding
+##Computing and coding at Darlinghurst
 The Information Communications and Technology (ICT) curriculum changed to Computing in 2015, with an emphasis on learning 
 to code – how to write computer programmes. 
 
@@ -763,11 +764,11 @@ You can find out more information about particular subjects and overviews for ea
 [Parent helpers and volunteers](http://www.darlinghurst.uk/documents/parent-helpers-and-volunteers.pdf)
 [Phonics](http://www.darlinghurst.uk/documents/phonics-at-darlinghurst.pdf)
 
-#Homework and independent learning 
+#Homework and Independent Learning 
 Pupils at Darlinghurst get different types of homework, including weekly spellings, reading and maths. Sometimes, homework may be a
 creative project – designing or making something. The amount of time homework takes will vary depending on children’s ages.
 
-##Should Parents/Carers Help with Homework?
+##Should parents/carers help with homework?
 
 Yes! Teachers at Darlinghurst believe in working together with families to help children to learn. All primary school children need
 regular help with their homework. Older children also need help, but should be able to work more independently. 
@@ -854,7 +855,7 @@ For more information, contact Ms Arnold [msarnold@darlinghurst.co.uk](msarnold@d
 
 [To be added]
 
-#Trips and outings 
+#Trips and Outings 
 Teachers at Darlinghurst believe that trips outside school are invaluable to children, not only in terms of the educational gains but
 also for developing social skills. Given that some children may not have the opportunity to visit places of interest, for a variety
 of reasons, the school sees it as a moral obligation to be able to provide these occasions. 
@@ -873,7 +874,7 @@ Teachers are always in need of volunteers to help supervise the trips.
 It may be possible to get financial help with school trips. If you think you qualify, ask at the School Office for more information
 [pupilservices@darlinghurst.co.uk](pupilservices@darlinghurst.co.uk)
 
-#Promoting positive behaviour
+#Promoting Positive Behaviour
 
 Teachers at Darlinghurst promoting positive behaviour through the curriculum and learning. They do this by involving children and
 making them feel included and valued. They even do it using the design and layout of classrooms, which should encourage children’s
@@ -908,10 +909,9 @@ Teachers at Darlinghurst believe in using rewards to promote positive behaviour.
 
 >_A Golden Ticket winner is dearwn each week. Prizes have included ..._
 
-## Darlinghurst’s School Houses
+##Darlinghurst’s School Houses
 
-Darlinghurst is divided into four teams or houses, named after Knights of the Round Table: Sir Lancelot, Sir Galahad, Sir Gareth and
-Sir Dinadan. 
+Darlinghurst is divided into four teams or houses, named after Knights of the Round Table: Sir Lancelot, Sir Galahad, Sir Gareth and Sir Dinadan. 
 
 >_The legendary knights who sat at King Arthur’s **Round Table** were known for their bravery and determination, but were also
 chivalrous (polite). The knights sat at a round table, rather than a rectangular one, so they could always see and hear one another,
@@ -953,7 +953,7 @@ Parents should also read the school's anti-bullying code and talk about it with 
 
 You can find Darlinghurst’s [Anti-bullying Policy](http://www.darlinghurst.uk/documents/pupil-anti-bullying-policy-2015.pdf) on the school website 
 
-#Pupil support 
+#Pupil Support 
 
 ##Additional educational needs
 Darlinghurst is a fully inclusive school that strives to ensure that all children achieve their potential personally, socially,
@@ -997,7 +997,7 @@ or the Learning Mentor Mrs Johnson [mrsjohnson@darlinghurst.co.uk](mrsjohnson@da
 
 For more information see Darlinghurst’s [Young Carers Policy](http://www.darlinghurst.uk/documents/young-carers-policy.pdf)
 
-#Bilingual children 
+#Bilingual Children 
 
 ##Raising and educating bilingual children
 Being able to speak two languages has numerous educational, social and economic benefits, particularly in an increasingly globalised
@@ -1031,11 +1031,11 @@ persevering.
 language. 
 
 ##Links and resources
-http://www.montessorisociety.org.uk/article/supporting-bilingual-children
-http://www.naldic.org.uk/eal-initial-teacher-education/resources/early-years/
-http://www.literacytrust.org.uk/talk_to_your_baby/key_topics/1333_bilingualism_and_english_as_an_additional_language
+* http://www.montessorisociety.org.uk/article/supporting-bilingual-children
+* http://www.naldic.org.uk/eal-initial-teacher-education/resources/early-years/
+* http://www.literacytrust.org.uk/talk_to_your_baby/key_topics/1333_bilingualism_and_english_as_an_additional_language
 (you can find lots of links to different subjects) 
-http://www.bbc.co.uk/schools/parents/english_as_additional_language/
+* http://www.bbc.co.uk/schools/parents/english_as_additional_language/
 
 Useful links page
 
