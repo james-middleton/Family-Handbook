@@ -51,7 +51,7 @@ clarifying instructions and supporting children with additional educational need
 Each Nursery class has two nursery nurses, and each Reception class has one. They ...
 
 ###Learning mentor
-_[Description of role and responsibilities.]
+_[Description of role and responsibilities.]_
 
 ###Home school support worker
 _[Description of role and responsibilities.]_
@@ -76,6 +76,54 @@ ensuring children are supervised and kept safe during Breakfast Club, at lunch t
 
 If you would like to become a Midday, contact [principal@darlinghurst.co.uk](principal@darlinghurst.co.uk)
 
+#Parent–school communication 
+
+[To be added]
+
+##The school website
+The address of school website is [www.darlinghurst.uk](www.darlinghurst.uk). It is regularly updated and includes contact
+details for teachers and other staff members. 
+
+In the [Information for Parents](http://www.darlinghurst.uk/information/) section you will find a school [Calendar](http://www.darlinghurst.uk/calendar/) with dates of
+school outings, plays, shows, and other school events. 
+
+Current and past editions of the weekly News & Views school newsletter are also posted here, along with links to school policies and
+other useful information.
+
+The [News](http://www.darlinghurst.uk/news/)section shows pictures  and videos of recent school activities, celebrating the children 
+and their achievements. (Darlinghurst has a strict children protection policy. Children’s photos will only appear on the
+website with their parents’ permission. For this reason, _**we ask families not to take photos or videos at school events**_.
+
+##The Parents and Teachers Association (PTA) 
+Darlinghurst parents and teachers association (PTA) is a group that organises events during the school year to raise money for the
+‘little extras’ that benefit all children during their time at the school. These are things that the normal school budget does not
+normally cover, such as …
+
+Meetings are usually held each half term, in the morning, straight after school drop-off and are open to anyone with a child at the
+school. If childcare is a problem, you are welcome to bring younger brothers and sisters along too.
+
+Meeting dates are usually advertised well in advance in the weekly [News & Views school newsletter](http://www.darlinghurst.uk/information/) and on the school website under
+[Darlinghurst PTA](http://www.darlinghurst.uk/information/darlinghurst-pta/). The school also sends out text message reminders.
+You will get these automatically if you have already registered your mobile number with the School Office.
+
+###What is it about? 
+Quite simply, the PTA can use any spare time that you are willing to give. You could be making tea at children's performances, 
+dressing as an elf for the Christmas fair, making cakes or looking after a bouncy castle at an inflatable fun day. Any contributions 
+of time or skills are gratefully received.
+
+If you are interested in joining, go to the [PTA page](http://www.darlinghurst.uk/information/darlinghurst-pta/) on the school website or the [PTA’s Facebook page](https://www.facebook.com/Darlinghurst-School-PTA-Leigh-on-Sea-213317208690232/)
+or email [darlinghurstpta@hotmail.com](darlinghurstpta@hotmail.com)
+
+The PTA is a great way to meet new people and become part of the school community.
+
+##The Darlinghurst Community Forum
+
+[To be added]
+
+##Workshops for parents 
+
+[To be added]
+
 #The Governing Body 
 The members of the [Governing Body](http://www.darlinghurst.uk/policies-and-governance/governors/) – governors – make sure that all children’s progress well in their education and that coming to
 Darlinghurst improves their prospects.
@@ -85,7 +133,8 @@ for example, how they do in reading writing and maths – and in an enjoyable an
 
 To see for themselves, the governors visit the school and talk with staff, children, parents and carers. They are also part of important recruitment and financial decisions.
 
->_The Governing Body works with the principal and senior teachers to design the annual **Academy Improvement Plan** >http://www.darlinghurst.uk/school/improvement-plan/ and checks that teachers are following this._
+>_The Governing Body works with the principal and senior teachers to design the annual **[Academy Improvement Plan]**( http://www.darlinghurst.uk/school/improvement-plan/) and checks that
+>teachers are following this._
 
 The Governing Body meets once a month. It is made up of 10 governors, who include the Darlinghurst principal and at least one other staff member, and two elected parent governors. 
 
@@ -117,50 +166,194 @@ The Junior Governors make sure that children have a voice in decisions about the
 have discussed issues such as healthy eating, homework, and deciding which local charity to support They also take part in
 interviewing new teachers. 
 
-#The Parents and Teachers Association (PTA) 
-Darlinghurst parents and teachers association (PTA) is a group that organises events during the school year to raise money for the
-‘little extras’ that benefit all children during their time at the school. These are things that the normal school budget does not
-normally cover, such as …
+#Preparing your child for school 
 
-Meetings are usually held each half term, in the morning, straight after school drop-off and are open to anyone with a child at the
-school. If childcare is a problem, you are welcome to bring younger brothers and sisters along too.
+[To be added.]
 
-Meeting dates are usually advertised well in advance in the weekly [News & Views school newsletter](http://www.darlinghurst.uk/information/) and on the school website under
-[Darlinghurst PTA](http://www.darlinghurst.uk/information/darlinghurst-pta/). The school also sends out text message reminders.
-You will get these automatically if you have already registered your mobile number with the School Office.
+##School uniform
 
-##What is it about? 
-Quite simply, the PTA can use any spare time that you are willing to give. You could be making tea at children's performances, 
-dressing as an elf for the Christmas fair, making cakes or looking after a bouncy castle at an inflatable fun day. Any contributions 
-of time or skills are gratefully received.
+[To be added]
 
-If you are interested in joining, go to the [PTA page](http://www.darlinghurst.uk/information/darlinghurst-pta/) on the school website or the [PTA’s Facebook page](https://www.facebook.com/Darlinghurst-School-PTA-Leigh-on-Sea-213317208690232/)
-or email [darlinghurstpta@hotmail.com](mailto:darlinghurstpta@hotmail.com)
+#Dropping off and picking up children 
 
-The PTA is a great way to meet new people and become part of the school community.
+##School opening and closing times
 
-#The School Website
+* **8.15am** School gates open
+* **8.40am** Children come into school
+* **8.45am** Registration begins
+* **8.55am** Registration closes – children arriving after this time are late and have to go to reception at the front of the school
+* **8.55am** Morning session begins
+* **3.10pm** School gates open; Nursery day ends
+* **3.30pm** School day ends
+* **4.00pm** School gates are locked; to collect children from afterschool clubs and Acorns, go to the side entrance next to the
+* carpark.
 
-The address of school website is [www.darlinghurst.uk](www.darlinghurst.uk). It is regularly updated and includes contact
-details for teachers and other staff members. 
+You can access the school grounds through two entrances at the front – one through the gate and the other next to the car park, which
+also leads to the bike shed. There is a third entrance to the grounds from Prittle Brook. The entrance to the School Office reception
+is at the front of the school.
 
-In the [Information for Parents](http://www.darlinghurst.uk/information/) section you will find a school calendar with dates of
-school outings, plays, shows, and other school events. 
+It is important to collect children promptly from their designated collection point, usually their classrooms. If you are late, children will be taken to the Acorns afterschool club where they will be looked after until collection. You will have to pay for the Acorns session.
 
-Current and past editions of the weekly News & Views school newsletter are also posted here, along with links to school policies and
-other useful information.
+If you expect to be late for pick up, call the School Office and someone will make sure that teachers are aware and can make any arrangements necessary. 
 
-The [News](http://www.darlinghurst.uk/news/)section shows pictures  and videos of recent school activities, celebrating the children 
-and their achievements. (Darlinghurst has a strict children protection policy. Children’s photos will only appear on the
-website with their parents’ permission. For this reason, _**we ask families not to take photos or videos at school events**_.
+###Nursery
+The morning session in the Nursery runs from 8.30am and finishes at 11.30am. To collect children you should use the Prittle Brook
+entrance and walk through the playground to the nursery. This gate is opened at 11.25am and locked when the last parent has left. 
+
+The afternoon session at Darlinghurst pre-school runs from 12 noon and finishes at 3.10pm. 
+
+##Travel to and from school
+Darlinghurst encourages active travel to and from school. It is hoped that parents and children living local to the school will opt
+to walk, cycle or scoot to school. This ensures that exercise is built into the day, and that congestion on the roads is kept to a
+minimum during rush hour. 
+
+###Safe crossing points
+[To be added.]
+
+###Parking
+All parking at Darlinghurst school car park is reserved for teachers and other other staff members. There is a limited parking
+available in surrounding streets, but these are residential and parents are asked to be aware, and considerate, of the school’s
+neighbours. Inconsiderate parking across local driveways, on double yellow lines, and directly in front of the school has been an
+issue in the past, and local residents have complained. 
+
+#Attendance
+Regular attendance and punctuality is essential if children are to make maximum progress in their education. Although attendance and
+punctuality have improved, Darlinghurst needs families’ help to make sure this continues.
+
+The school is legally obliged to keep records of absence. To keep records up to date, on the first day of absence, or before if it is
+appropriate, parents/carers must let the school know why children will not be at school. You can do this by:
+
+* Calling the school on 01702 478379 before 10am on the first day of absence; choose Option 1 and leave a voice message.
+* Telling someone in the School Office in person.
+
+School policy is to call parents on the first day of absence if they have not been in contact beforehand. On return to school,
+children should bring a signed note/letter detailing the illness and action taken.
+
+##Family holidays in term time
+
+Any absence from school needs to be avoided wherever possible because it can have a serious effect on young children’s education
+and development. The school will not give permission for any term-time holidays.
+
+Research shows that children who miss 17 or more days from school during just one academic year can fall behind as much as one National Curriculum level. Missing 5 days means your child will lose 25 hours of learning, which is equal to:
+
+* 5 hours of maths
+* 5 hours of English
+* 10 hours of other lessons e.g. science, history, computing
+* 6 hours of social time
+
+>_2 weeks' holiday = 50 hours’ learning; 2 weeks holiday and 1 week’s illness = 75 hours’ learning!_
+
+##Help and advice
+
+If you need any help or advice about attendance, the school Family Liaison Officer Mr Noades is in school every day and Miss Walton is available in the School Office on Mondays, Tuesdays, Thursdays and Fridays between 8.00am and 4.00pm. You can aloso contact Miss Walton by phone and email:
+
+Tel: 01702 509203
+Email: [pupilservices@darlinghurst.co.uk](pupilservices@darlinghurst.co.uk)
+
+#The school day 
+
+Classrooms are open from 8.30am. The register closes at 8.55am. If children arrive after this time they will be marked as late.
+
+If you arrive after 8.55am, you should go to the School Office, at the front of the school, and a member of staff will take children to their classroom or the nursery.
+
+##Daily routine
+
+**Nursery**
+Morning session: 8.30–11.30am
+Afternoon session: 12.10–3.10pm
+
+**Reception**
+Maths meetings and phonics sessions every morning for 15 minutes each.
+
+**Key Stage 1 (Years 1 and 2)**
+Maths meetings and phonics sessions every morning for 20 minutes each.
+Guided reading every afternoon for 20 minutes.
+
+**Key Stage 2 (Years 3 to 6)**
+Maths meetings every morning for 20 minutes.
+Guided reading every afternoon for 20 minutes.
+
+###Break times and lunch
+
+There are two morning breaks, at 9.45–10.00am and 11.00–11.15am. 
+
+In Reception, classes have breaks as required. This is at the teachers’ discretion and closely monitored by the senior leadership team.
+
+A healthy snack is provided for all children in Key Stage 1.
+
+Lunch times are staggered:
+
+* Reception: 12.00–1.00pm
+* Key Stage 1: 12.15–1.15pm
+*Key Stage 2: 12.30–1.30pm
+
+#Breakfast, lunch and afterschool clubs 
+
+##Breakfast Club 
+The Breakfast Club is open to all Darlinghurst pupils. It opens at 7.45am and costs £2.00 per child per morning. Parents must contact the School Office to confirm a place before children can attend.
+
+##Acorns Afterschool Club
+Acorns is separate and different from afterschool activity clubs. Pupils can attend from 3.30pm to 6.00pm for £6 per day (£5 if you pay in advance). 
+
+##Lunchtime and afterschool activities
+
+Other lunch time and after school clubs are rotated by staff each half term. Every child will have the opportunity to sign up for at
+least one club at some point during the year. If spaces are limited, children who have not been able to go to any clubs before then
+get priority. 
+
+_To drop off and pick up children from clubs out of normal school hours you can access the school through the carpark entrance._
+
+#Lunch and school meals
+For most pupils, school lunches cost £2 per child. You should pay at the start of the week by giving the money in an envelope to the class teacher. You can buy envelopes from the School Office. You can also pay in advance by cheque, making cheques payable to
+Darlinghurst School and handing them in at the School Office.
+
+##Free school meals
+All children in Reception and years 1 and 2 are currently entitled to free school meals under the universal infant free school meals
+scheme. 
+
+For children in Key Stage 2 (Years 3–6) to qualify for free school meals, parents/carers must prove that they receive one of the following:
+
+* Income support
+* Income-based jobseeker’s allowance
+* Income-related employment and support allowance
+* Support under Part VI of the Immigration and Asylum Act 1999
+* The guarantee element of state pension credit
+* Child tax credit, provided you are not entitled to working tax credit and have an annual income (as assessed by HM Revenue &
+* Customs) below £16,190
+* Working tax credit during the four-week period immediately after finishing work or after starting to work less than 16 hours a week
+
+_Children who receive income support in their own name also qualify._
+
+You can apply online if you are [applying for free school meals](www.southend.gov.uk/fsm) for the first time. For free school meal renewal, you need to complete a ‘Registration for free school meals and Pupil Premium’. [SUPPLY LINK}
+
+##The school menu
+The school kitchen prepares all meals from scratch with fresh ingredients. 
+
+Read the current [Darlinghurst lunch menu] SUPPLY LINK
+
+Occasionally, it may be necessary to change menu items, but the kitchen will not compromise on ingredient quality.
+
+*The aim when compiling menus is to use around 90% fresh ingredients 
+* All menus meet nutritional standards
+* The kitchen cooks and serves around 200 school meals for pupils and staff each day
+* Meat is farm assured, Red Tractor Standard
+* Fish is from sustainable sources
+* Eggs are free range
+* No GM ingredients, undesirable additives or hydrogenated fats are used
+* Menus are seasonal and include seasonal local produce
+
+##Packed lunches
+Darlinghurst encourages children to bring healthy packed lunches to school. Packed lunches should not contain glass bottles, cans of
+fizzy drinks or sweets. 
+
+Some children at school have serious nut allergies, and for this reason you should not to include food containing nuts in packed
+lunches. 
+
+Packed lunches should be brought in a suitable lunchbox, clearly marked with your child’s name and class.
 
 #The Curriculum at Darlinghurst
 
 ##Early Years Foundation Stage (Nursery and Reception)
-
-**Contact**
-
-EYFS curriculum – Mrs Dutton [mrsdutton@darlinghurst.co.uk](mrsdutton@darlinghurst.co.uk)
 
 ###What is the Early Years Foundation Stage?
 The Early Years Foundation Stage (EYFS) at Darlinghurst is for children aged 3–5 and covers the Nursery and Reception classes – the
@@ -208,6 +401,8 @@ learning to work, play and co-operate in a group; it includes learning about [Br
 * history and geography.
 * **Expressive arts and design** – exploring creative and imaginative self-expression through art, music and drama, using different media
 * and materials.
+
+For more information about the EYFS curriculum, contact Mrs Dutton [mrsdutton@darlinghurst.co.uk](mrsdutton@darlinghurst.co.uk)
 
 You can read Darlinghurst’s [EYFS Policy]( http://www.darlinghurst.uk/documents/early-years-foundation-stage-policy.pdf) in full on the school website.
 
@@ -272,9 +467,9 @@ will be learning over the course of the year, under the Downloads section http:/
 
 You can read more about the [Core Learning Skills Curriculum](http://www.darlinghurst.uk/documents/core-learning-skills-curriculum.pdf) on the school website. 
 
-#British Values
+##British Values
 
-##Being British
+###Being British
 The government’s Department for Education (DfE) wants ‘to create and enforce a clear and rigorous expectation on all schools to
 promote the fundamental British values.’
 
@@ -318,16 +513,35 @@ covering key religious festivals across the year. These values are also taught i
 as well as informally throughout the school day. Parents and other members of the community also visit the school to share their
 experiences and beliefs.
 
-###Darlinghurst’s School Houses
-Darlinghurst is divided into four teams or houses, named after Knights of the Round Table: Sir Lancelot, Sir Galahad, Sir Gareth and
-Sir Dinadan. 
+##Sex and relationships education
+Teachers at Darlinghurst feel that the primary role in children’s sex and relationship education lies with parents and carers. They
+want to help parents through mutual understanding, trust and cooperation. But parents have the right to withdraw their child from all or part of the school’s sex and relationships education programme. 
 
->_The legendary knights who sat at King Arthur’s **Round Table** were known for their bravery and determination, but were also
->chivalrous (polite). The knights sat at a round table, rather than a rectangular one, so they could always see and hear one another,
->and it meant that they were equal.
+Darlinghurst teaches sex and relationship education in different parts of the curriculum. This is mainly as part of personal, social
+and health education curriculum, but also in other subject areas (e.g. science). 
 
-Pupils receive house points to reward positive behaviour, especially when it is above and beyond what teachers’ would normally
-expect. This rewards courteous and collaborative behaviour, and encourages children to work well and respect everyone in the community.
+Children learn about: 
+
+* The physical development of their bodies as they grow into adults
+* The way human’s reproduce
+* Respect for their own bodies and the importance of sexual activity as part of a committed, long-term, and healthy and loving
+* relationship
+* The importance of family life
+* Moral questions
+* Relationship issues
+* Respect for other people’s views
+* Sex abuse and what to do if they are worried about any sexual matters
+* The issue of consent.
+
+Children learn about sex and relationship education in the context of the school’s aims and values. While this means that teachers
+give children information about relationships and sexual behaviour, they do this with an awareness of the moral code and values that
+underpin all work in school. In particular, Darlinghurst teaches sex education in the belief that: 
+* Children should learn to have respect for their own bodies.
+* Children should learn about their responsibilities to others, and be aware of the consequences of sexual activity.
+* Children should learn that it is important to build positive relationships with others, involving trust and respect.
+
+For more information, see Darlinghurst’s [Relationship and Sex Education Policy](http://www.darlinghurst.uk/documents/relationship-and-sex-education-policy-2015.pdf) or contact Assistant Principal Mrs Cooke
+[mrscooke@darlinghurst.co.uk](mrscooke@darlinghurst.co.uk)
 
 ##Computing and Coding
 The Information Communications and Technology (ICT) curriculum changed to Computing in 2015, with an emphasis on learning 
@@ -339,9 +553,9 @@ well.
 
 Find out more about [computing and coding](http://www.darlinghurst.uk/information/computing-and-coding/) on the school website, including links to usefull resources.
 
-#English at Darlinghurst
+##English at Darlinghurst
 
-##Reading
+###Reading
 Darlinghurst uses the [Letters and Sounds](http://www.darlinghurst.uk/documents/phonics-at-darlinghurst.pdf) programme, which uses phonics to teach children to read and spell. Children in Key Stage 1
 (Years 1 and 2) have daily phonics lessons. They continue to have regular phonics sessions up to the end of Year 3, as do older
 children who need help. (For more about phonics, see the section in the handbook on the Early Years Foundation Stage, above.)
@@ -370,7 +584,7 @@ development. It will give them enjoyment, but also skills for lifelong learning.
 Children can easily get books in their classrooms and from the school library. Teachers encourage them to use the library during
 playtimes and lunchtimes, as well as timetabled slots, to make sure they can get high-quality reading materials whenever they wish.
 
-##Writing
+###Writing
 Teachers at Darlinghurst believe that the best writers are also readers – when you read, you learn how stories are made and use this
 in your own writing. And you cannot write well without understanding how language sounds when you speak it. So, speaking and
 listening are also the building blocks of successful writing. 
@@ -382,7 +596,7 @@ and spelling (spelling tests continue up to Year 6).
 
 >_**Write for 10** is a daily activity that improves imagination, creative writing and writing stamina. Children write for 10 minutes
 >in response to an idea – sometimes linked to the curriculum, but usually a stand-alone piece of creative writing – then mark one
->another’s work.
+>another’s work._
 
 ###Handwriting
 Scientific research shows that learning to write with a pencil or pen on paper teaches young children how to handle objects.
@@ -429,8 +643,7 @@ You can find an [overview of the curriculum](http://www.darlinghurst.uk/document
 Under the [Maths](http://www.darlinghurst.uk/school/curriculum/maths/) section of the website, you can also read the school's Maths policies in full, find a [calculation glossary of terms](http://www.darlinghurst.uk/documents/calculation-glossary-of-terms.pdf)
 and see slides from previous maths workshops.
 
-
-##Music
+##Music at Darlinghurst
 At Darlinghurst, all children from the Nursery through to Year 6 have an opportunity to learn about and make music. The school music
 curriculum introduces children to instruments of the orchestra; storytelling through music; musical theatre, with Year 5 and 6 trips
 to London's West End; styles of music including classical, pop, rock, gospel, jazz and world music; film music; and song-writing,
@@ -454,7 +667,7 @@ violin and singing.
 An informal lunchtime Music Theory Club, which is free of charge, also helps those learning instruments, whether at school or
 independently.
 
-##Physical Education and Sports
+##Physical education and sports
 All children at Darlinghurst take part in one hour of PE each week. There are also 16 sports and activity clubs that run before and
 after school, and playground leaders keep the children active at lunchtimes.
 
@@ -489,7 +702,7 @@ Olympics and Paralympics. Each year, the school houses LINK have a chance to com
 also celebrates individual achievements out of school in the weekly [News & Views](http://www.darlinghurst.uk/information/) newsletter.
 
 >_The idea behind competing in sports at school and in tournaments and festivals is that it teaches British values such as
-**fairness** and **respect**, builds character, and gives children the chance to achieve their best._
+>**fairness** and **respect**, builds character, and gives children the chance to achieve their best._
 
 The aim at Darlinghurst is to get all children more engaged in PE, to become more physically confident and understand the importance
 of a healthy and active lifestyle. The school has started a health-related fitness programme across all year groups. 
@@ -514,7 +727,7 @@ will not be able to take part in the lesson. This is in line with guidelines fro
 
 You can read more about how Darlinghurst spends the money it receives as [Sports Premium](http://www.darlinghurst.uk/school/sports-premium/) funding on the school website.
 
-##Religious Education
+##Religious education
 Darlinghurst has a broad and balanced RE curriculum that teaches children about different faiths and the importance of respecting
 people’s beliefs. Pupils learn about the impact of faith and the challenges of living by a faith in the 21st Century.
 
@@ -529,19 +742,19 @@ meaning, purpose, truth, values and commitment.
 
 For more information about the curriculum you can ask the members of staff listed below:
 
-English – Mrs Collison [mrscollison@darlinghurst.co.uk](mailto:mrscollison@darlinghurst.co.uk)
+English – Mrs Collison [mrscollison@darlinghurst.co.uk](mrscollison@darlinghurst.co.uk)
 
-Maths Years 1-4 – Mrs Ablethorpe [mrsablethorpe@darlinghurst.co.uk](mailto:mrsablethorpe@darlinghurst.co.uk)
+Maths Years 1-4 – Mrs Ablethorpe [mrsablethorpe@darlinghurst.co.uk](mrsablethorpe@darlinghurst.co.uk)
 
-Maths Years 5-6 – Miss Crumbie [misscrumbie@darlinghurst.co.uk](mailto:misscrumbie@darlinghurst.co.uk)
+Maths Years 5-6 – Miss Crumbie [misscrumbie@darlinghurst.co.uk](misscrumbie@darlinghurst.co.uk)
 
-Other subjects – Mrs Nicholls [mrsnicholls@darlinghurst.co.uk](mailto:mrsnicholls@darlinghurst.co.uk)
+Other subjects – Mrs Nicholls [mrsnicholls@darlinghurst.co.uk](mrsnicholls@darlinghurst.co.uk)
 
-Reception curriculum – Mrs Dutton [mrsdutton@darlinghurst.co.uk](mailto:mrsdutton@darlinghurst.co.uk)
+Reception curriculum – Mrs Dutton [mrsdutton@darlinghurst.co.uk](mrsdutton@darlinghurst.co.uk)
 
 You can find out more information about particular subjects and overviews for each year group on the [Curriculum](http://www.darlinghurst.uk/school/curriculum/) page of the school website. 
 
-##Related Topics
+##Related topics
 [Additional educational needs](http://www.darlinghurst.uk/information/additional-educational-need)s/)
 [Behaviour Policy](http://www.darlinghurst.uk/documents/behaviour-policy.pdf) 
 [Daily routine](http://www.darlinghurst.uk/information/daily-routine/) 
@@ -552,768 +765,267 @@ You can find out more information about particular subjects and overviews for ea
 [Parent helpers and volunteers](http://www.darlinghurst.uk/documents/parent-helpers-and-volunteers.pdf)
 [Phonics](http://www.darlinghurst.uk/documents/phonics-at-darlinghurst.pdf)
 
-#Preparing your child for school 
+#Homework and independent learning 
+Pupils at Darlinghurst get different types of homework, including weekly spellings, reading and maths. Sometimes, homework may be a
+creative project – designing or making something. The amount of time homework takes will vary depending on children’s ages.
 
-[To be added.]
+##Should Parents/Carers Help with Homework?
 
-#Dropping off and picking up children 
-
-##School Opening and Closing Times
-
-* **8.15am** School gates open
-* **8.40am** Children come into school
-* **8.45am** Registration begins
-* **8.55am** Registration closes – children arriving after this time are late and have to go to reception at the front of the school
-* **8.55am** Morning session begins
-* **3.10pm** School gates open; Nursery day ends
-* **3.30pm** School day ends
-* **4.00pm** School gates are locked; to collect children from afterschool clubs and Acorns, go to the side entrance next to the
-* carpark.
-
-You can access the school grounds through two entrances at the front – one through the gate and the other next to the car park, which
-also leads to the bike shed. There is a third entrance to the grounds from Prittle Brook. The entrance to the School Office reception
-is at the front of the school.
-
-It is important to collect children promptly from their designated collection point, usually their classrooms. If you are late, children will be taken to the Acorns afterschool club where they will be looked after until collection. You will have to pay for the Acorns session.
-
-If you expect to be late for pick up, call the School Office and someone will make sure that teachers are aware and can make any arrangements necessary. 
-
-###Nursery
-The morning session in the Nursery runs from 8.30am and finishes at 11.30am. To collect children you should use the Prittle Brook
-entrance and walk through the playground to the nursery. This gate is opened at 11.25am and locked when the last parent has left. 
-
-The afternoon session at Darlinghurst pre-school runs from 12 noon and finishes at 3.10pm. 
-
-##Travel to and from school
-Darlinghurst encourages active travel to and from school. It is hoped that parents and children living local to the school will opt
-to walk, cycle or scoot to school. This ensures that exercise is built into the day, and that congestion on the roads is kept to a
-minimum during rush hour. 
-
-###Safe crossing points
-[To be added.]
-
-###Parking
-All parking at Darlinghurst school car park is reserved for teachers and other other staff members. There is a limited parking
-available in surrounding streets, but these are residential and parents are asked to be aware, and considerate, of the school’s
-neighbours. Inconsiderate parking across local driveways, on double yellow lines, and directly in front of the school has been an
-issue in the past, and local residents have complained. 
-
-#Attendance
-Regular attendance and punctuality is essential if children
-are to make maximum progress in their education. Although attendance and
-punctuality have improved, Darlinghurst needs families’ help to make sure this
-continues.
-
-The school is legally obliged to keep records of absence. To
-keep records up to date, on the first day of absence, or before if it is
-appropriate, parents/carers must let the school know why children will not be
-at school. You can do this by:
-
-Calling the school on 01702 478379 before 10am on the first
-day of absence; choose Option 1 and leave a voice message.
-
-Telling Miss Walton in the office in person.
-
-The school policy is to call parents on the first day of
-absence if they have not been in contact beforehand. On return to school,
-children should bring a signed note/letter detailing the illness and action
-taken.
-
-Family Holidays in Term Time
-
-Any absence from school needs to be avoided wherever
-possible because it can have a serious effect on a young children’s education
-and development. No term-time holidays will be authorised.
-
-Research shows that children who miss 17 or more days from
-school during just one academic year can fall behind as much as one National
-Curriculum level. Missing 5 days means your child will lose 25 hours of
-learning, which is equal to:
-
-5 hours of maths
-
-5 hours of English
-
-10 hours of other lessons e.g. science, history, computing
-
-6 hours of social time
-
-2 weeks holiday = 50 hours’ learning; 2 weeks holiday and 1
-week’s illness = 75 hours’ learning!
-
-Here to help
-
-If you need any help or advice about attendance, the school
-Family Liaison Officer Mr Noades is in school every day and Miss Walton is
-available in the front office on Monday, Tuesday, Thursday and Friday between
-8.00am and 4.00pm. Miss Walton can also be contacted by telephone and email:
-
-Telephone: 01702 509203
-
-Email: pupilservices@darlinghurst.co.uk
-
-[]()[]()[]()[]()[]()[]()The School Day 
-
-Classrooms are open from 8.30am. The register closes at
-8.55am. If children arrive after this time they will be marked as late.
-
-If you arrive after 8.55am, you should go to the school
-office, at the front of the school, and a member of staff will take children to
-their classroom or the nursery.
-
-Daily Routine
-
-Nursery
-
-Morning session: 8.30–11.30am
-
-Afternoon session: 12.10–3.10pm
-
-Reception
-
-Maths meetings and phonics sessions take place every morning
-for 15 minutes each.
-
-Key Stage 1 (Years 1 and 2)
-
-Maths meetings and phonics sessions take place every morning
-for 20 minutes each.
-
-Guided reading takes place every afternoon for 20 minutes.
-
-Key Stage 2 (Years 3 to 6)
-
-Maths meetings take place every morning for 20 minutes.
-
-Guided reading takes place every afternoon for 20 minutes.
-
-Break times and lunch
-
-There are two morning breaks, at 9.45–10.00am and
-11.00–11.15am. 
-
-In Reception, classes have breaks as required. This is at
-the teachers’ discretion and closely monitored by the senior leadership team.
-
-A healthy snack is provided for all children in Key Stage 1.
-
-Lunch times are staggered:
-
-Reception: 12.00–1.00pm.
-
-Key Stage 1: 12.15–1.15pm.
-
-Key Stage 2: 12.30–1.30pm.
-
-[]()[]()[]()[]()[]()[]()[]()[]()[]()Breakfast, Lunch and After School Clubs 
-
-There are a variety of clubs at Darlinghurst, helping the
-school provide ‘wrap-around care’ for parents who work. 
-
-Breakfast Club 
-
-[To be added]
-
-Acorns
-
-Acorns is separate and different from afterschool activity
-clubs. Children can attend from 3.30pm to 6pm for £6 per day (£5 if you pay in
-advance). 
-
-To collect children from afterschool clubs you can access
-the school through the car park entrance. 
-
-Lunchtime and Afterschool Activities
-
-Other lunch time and after school clubs are rotated by staff
-each half term. Every child will have the opportunity to sign up for at least
-one club at some point during the year. If spaces are limited, children who
-have not been able to go to any clubs before then get priority.
-
-[]()[]()[]()[]()[]()[]()Lunchtime, Free School Meals and Packed Lunches 
-
-Lunch times are staggered:
-
-Reception: 12.00–1.00pm.
-
-Key Stage 1: 12.15–1.15pm.
-
-Key Stage 2: 12.30–1.30pm.
-
-Free School Meals
-
-All children in Reception and years 1 and 2 are currently
-entitled to free school meals under the Universal Infant Free School Meals
-policy. 
-
-For children in Key Stage 2 (Years 3–6) to qualify for free
-school meals, parents/carers must satisfy the eligibility criteria and provide
-a copy of currently-dated evidence as shown below:
-
-Receive Income Support
-
-Receive Income-based Jobseeker’s Allowance
-
-Receive Income-related Employment and Support Allowance
-
-Receive support under Part VI of the Immigration and Asylum
-Act 1999
-
-Receive the Guarantee element of State Pension Credit
-
-Receive Child Tax Credit, provided they are not entitled to
-Working Tax Credit and have an annual income (as assessed by HM Revenue &
-Customs) that does not exceed £16,190
-
-Receive Working Tax Credit during the four-week period
-immediately after their employment finishes or after they start to work less
-than 16 hours per week
-
-Please note that children who receive Income Support in
-their own name also qualify.
-
-If you are applying for free school meals for the first
-time, use the online application process at www.southend.gov.uk/fsm if you are
-able. For free school meal renewal, please complete a ‘Registration for Free
-School Meals and Pupil Premium’ form SUPPLY LINK.
-
-School Meals
-
-All meals are cooked from scratch in the school kitchen with
-fresh ingredients. 
-
-Read the current menu SUPPLY LINK
-The cost of school lunches is currently £2 per child.
-Payment should be made at the start of the week with all monies placed in an
-envelope and given to the teacher. You can buy envelopes from the school
-office. You can also pay in advance by cheque, making cheques payable to
-Darlinghurst School and handing them in at the school office.
-
- 
-
-Additional Information about School Meals
-
-Occasionally, it may be necessary to change menu items. This
-is sometimes due to severe weather problems or product availability, but the
-kitchen does not compromise on ingredient quality.
-
-The aim when compiling menus is to use around 90% fresh
-ingredients 
-
-All menus comply with nutritional standards
-
-The kitchen cooks and serves around 200 school meals each
-day, which are enjoyed by children and staff
-
-Meat is farm assured, Red Tractor Standard
-
-Fish served is from sustainable sources
-
-Eggs are free range
-
-No GM ingredients, undesirable additives or hydrogenated
-fats are included
-
-Menus are seasonal and include seasonal local produce.
-
-Packed Lunches
-
-Darlinghurst encourages children to bring healthy packed
-lunches to school. Packed lunches should not contain glass bottles, cans of
-fizzy drinks or sweets. 
-
-Some children at school have serious nut allergies, and for
-this reason the school asks you not to include food containing nuts in packed
-lunches. 
-
-Packed lunches should be brought in a suitable lunchbox,
-clearly marked with the child’s name and class.
-
-Outdoor Learning
-
-Learning outside the classroom means using places other than
-the classroom for teaching and learning. It is about getting children out and
-about, providing them with challenging, exciting and different experiences to
-help them learn.
-
-Reception classes enjoy a timetabled outdoor learning day
-every week. The outdoor learning team also work with other year groups to
-inspire children to work well and achieve their best in a totally different way
-to the usual classroom learning.
-
-Darlinghurst’s outdoor learning facilities include:
-
-‘Hagrid’s Hut’, which has its own fire pit
-
-An outdoor learning bus 
-
-Six beach huts with their own beach 
-
-A big pond 
-
-A vegetable garden, with chickens
-
-Lots of green space to explore and let the children’s
-interests lead their learning.
-
-For more information, contact Ms Arnold
-msarnold@darlinghurst.co.uk or Miss Hydes mrshydes@darlinghurst.co.uk or come
-to one of the outdoor learning family days.
-
-Trips and Outings 
-
-Teachers at Darlinghurst believe that trips outside school
-are invaluable to children, not only in terms of the educational gains but also
-for developing social skills. Given that some children may not have the
-opportunity to visit places of interest, for a variety of reasons, the school
-sees it as a moral obligation to be able to provide these occasions. 
-
-Where and when
-
-All trips planned for the academic year are shown on the
-school calendar. LINK It is not always possible to calculate the cost and
-provide a firm date, but the teachers are keen to give parents as much notice
-as possible. Trips are generally linked to year-group topics/themes. 
-
-Other unscheduled opportunities may arise during the year;
-for example, author workshops, library visits, theatre trips. These are in
-addition to class trips and may only be available to certain classes or year
-groups.
-
-Help with the cost of trips
-
-It may be possible to get financial help with school trips.
-If you think you qualify, ask at the school office for more information
-pupilservices@darlinghurst.co.uk
-
-[]()[]()[]()[]()[]()[]()Homework and Independent Learning 
-
-Children at Darlinghurst get different types of homework,
-including weekly spellings, reading and maths. Sometimes, homework may be a
-creative project – designing or making something. The amount of time homework
-takes will vary depending on children’s ages.
-
-Should Parents/Carers Help with Homework?
-
-Yes. Teachers at Darlinghurst believe in working together
-with families to help children to learn. All primary school children need
-regular help with their homework. Older children also need help, but should be
-able to work more independently. 
+Yes! Teachers at Darlinghurst believe in working together with families to help children to learn. All primary school children need
+regular help with their homework. Older children also need help, but should be able to work more independently. 
 
 You can help in different ways:
 
-Find a good time – competing with TV, sport or clubs can
-make things harder. 
+* Find a good time – competing with TV, sport or clubs can make things harder. 
+* Find a good place – for example, somewhere without distractions, with a table and chair, and good light.
+* Find the right tools – a pencil and paper are often enough, but you may need other things.
+* Find out the time scale – how long should the homework take?
+* Find out when the homework due back at school. 
 
-Find a good place – for example, somewhere without
-distractions, with a table and chair, and good light.
+It is also useful to have a homework toolkit at home. It could include, for example:
 
-Find the right tools – a pencil and paper are often enough,
-but you may need other things.
+* Pencils, pens, crayons
+* Paper, cardboard
+* A rubber and ruler
+* Paints and brushes
+* Scissors
+* Sticky tape, glue
+* A dictionary
 
-Find out the time scale – how long should the homework take?
-When is the homework due back at school?
+##The homework timetable
+Each class teacher is responsible for setting homework, giving children instructions each week, and telling parents about arrangements and expectations at the start of each term. 
 
-* It’s useful
-to have a homework toolkit at home. It could include, for example:
+All year groups get their homework on a Friday. 
 
-·           
-Pencils, pens, crayons
+Key Stage 1 children (Reception and Years 1 and 2) should hand in their finished homework by the following Thursday. 
 
-·           
-Paper, cardboard
+Key Stage 2 children (Years 3–6) should hand theirs in by Wednesday, to give teachers time to check and mark their work. 
 
-·           
-A rubber and ruler
+For written work, homework books go into the class homework tray. 
 
-·           
-Paints and brushes
+The list below is a general guide to how much homework to expect. 
 
-·           
-Scissors
+**Reception**
+Half an hour a week (reading, creative activities to support learning in the Early Years Foundation Stage curriculum)
 
-·           
-Sticky tape, glue
+**Years 1 and 2**
+1 hour a week (reading, spellings, other literacy and number work)
 
-·           
-A dictionary
+**Years 3 and 4**
+1.5 hours a week (literacy and numeracy as for Years 1 and 2, with occasional assignments in other subjects)
 
-Each class teacher is responsible for setting homework,
-giving children instructions each week, and telling parents about arrangements
-and expectations at the start of each term. 
-
-All year groups get their homework on a Friday. Key Stage 1
-children (Reception and Years 1 and 2) should hand in their finished homework
-by the following Thursday, and Key Stage 2 children (Years 3–6) should hand
-theirs in by Wednesday, to give teachers time to check and mark their work. For
-written work, homework books go into the class homework tray. 
-
-The list below is a general guide to how much homework to
-expect. 
-
-Reception
-
-Half an hour a week (reading, creative activities to support
-learning in the Early Years Foundation Stage curriculum)
-
-Years 1 and 2
-
-1 hour a week (reading, spellings, other literacy and number
-work)
-
-Years 3 and 4
-
-1.5 hours a week (literacy and numeracy as for Years 1 and
-2, with occasional assignments in other subjects)
-
-Years 5 and 6
-
-Up to 30 minutes a day (regular weekly schedule, with
-continued emphasis on literacy and numeracy but also ranging widely over other
+**Years 5 and 6**
+Up to 30 minutes a day (regular weekly schedule, with continued emphasis on literacy and numeracy but also ranging widely over other
 subjects)
 
-In addition, children may get small pieces of work to do
-with clubs and other activities(e.g. French club homework, learning a line for
-the school play, etc.)
+In addition, children may get small pieces of work to do with clubs and other activities (e.g. French club homework, learning a part for the school play, etc.)
 
-You can find resources to help you help children with
-reading, writing and maths on the school website (see links at the bottom). The
-school also organises workshops and presentations for parents over the course
-of the year.
+You can find resources to help you help children with reading, writing and maths on the school website. The school also organises workshops and presentations for parents over the course of the year.
 
-Darlinghurst School Parent Questionnaire Results 2015 (160
-people replied).
+>Darlinghurst School Parent Questionnaire Results 2016 (225 people replied).
 
- 
+>I am happy with the amount and type of work my child is expected to do at home 
+>% strongly agreed
+>% agreed 
+>% disagreed
+>% strongly disagreed 
 
-I am happy with the amount and type of work my child is
-  expected to do at home 
+Homework will always divide opinion, with some believing there is too much and others too little. Teachers at Darlinghurst believe that education is a joint responsibility between school and parents, and that together we can find the right balance. If you have any concerns, talk to your child’s teacher. 
 
- 
+#Outdoor Learning
+Learning outside the classroom means using places other than the classroom for teaching and learning. It is about getting pupils
+out and about, providing them with challenging, exciting and different experiences to help them learn.
 
-25% strongly agreed
+Reception classes enjoy a timetabled outdoor learning day every week. The outdoor learning team also work with other year groups to
+inspire children to work well and achieve their best in a totally different way to the usual classroom learning.
 
-63% agreed 
+Darlinghurst’s outdoor learning facilities include:
 
-11% disagreed
+* ‘Hagrid’s Hut’, which has its own fire pit
+* An outdoor learning bus 
+* Six beach huts with their own beach 
+* A big pond 
+* A vegetable garden, with chickens
+* Lots of green space to explore and let the children’s interests lead their learning.
 
-1% strongly disagreed 
+For outdoor learning children should wear ...
 
- 
+For more information, contact Ms Arnold [msarnold@darlinghurst.co.uk](msarnold@darlinghurst.co.uk) or Miss Hydes [mrshydes@darlinghurst.co.uk]( mrshydes@darlinghurst.co.uk) or come to one of the outdoor learning family days.
 
-We say: 
-
-Homework will always divide opinion, with some believing
-  there is too much and others too little. 
-
-We believe education is a joint responsibility between
-  school and parents, and that together we can strike the right balance. If you
-  have any concerns, please talk to your child’s teacher. 
-
-Links
-
-LIST
-
-[]()[]()[]()School Assemblies 
+#School Assemblies 
 
 [To be added]
 
-School Rewards
+#Trips and outings 
+Teachers at Darlinghurst believe that trips outside school are invaluable to children, not only in terms of the educational gains but
+also for developing social skills. Given that some children may not have the opportunity to visit places of interest, for a variety
+of reasons, the school sees it as a moral obligation to be able to provide these occasions. 
 
-Teachers at Darlinghurst believe in using rewards to promote
-positive behaviour. Rewards include:
+##Where and when
+All trips planned for the academic year are shown on the school [Calendar](http://www.darlinghurst.uk/calendar/). It is not always
+possible to calculate the cost and provide a firm date, but the teachers are keen to give parents as much notice
+as possible. Trips are generally linked to year-group topics or themes. 
 
-Praise, public and private
+Other unscheduled opportunities may arise during the year; for example, author workshops, library visits and theatre trips. These are
+in addition to class trips and may only be available to certain classes or year groups.
 
-Student of the Week Awards that run in line with the schools
-core values
+Teachers are always in need of volunteers to help supervise the trips.
 
-Positive comments to parents
+##Help with the cost of trips
+It may be possible to get financial help with school trips. If you think you qualify, ask at the School Office for more information
+[pupilservices@darlinghurst.co.uk](pupilservices@darlinghurst.co.uk)
 
-Opportunities for greater responsibilities
+#Promoting positive Behaviour
 
-Opportunities for children to participate in a chosen
-activity.
+Teachers at Darlinghurst promoting positive behaviour through the curriculum and learning. They do this by involving children and
+making them feel included and valued. They even do it using the design and layout of classrooms, which should encourage children’s
+independence and personal initiative, and with displays around the school that develop children’s self-esteem and raise their
+aspirations. 
 
- 
+##Classroom code
+At the beginning of each school year, teachers and children work out a classroom code and rewards for good behaviour. The main parts
+of the code are:
 
-Health and Wellbeing 
+* Respect for myself 
+* Respect for others 
+* Respect for property
 
-Potential to include summary info from various school
-policies such as – 
+##The Behaviour Pyramid
+Teachers and children also talk about the [Behaviour Pyramid]http://www.darlinghurst.uk/documents/behaviour-policy.pdf, which is a chart that shows how teachers will deal with negative or disruptive behaviour. A copy of the pyramid is displayed in each classroom and around the school.
 
-Promoting positive Behaviour
+For more information, see Darlinghurst’s [Promoting Positive Behaviour Policy](http://www.darlinghurst.uk/documents/behaviour-policy.pdf).
 
-Teachers at Darlinghurst promoting positive behaviour
-through the curriculum and learning. They do this by involving children and
-making them feel included and valued. They even do it using the design and
-layout of classrooms, which should encourage children’s independence and
-personal initiative, and with displays around the school that develop
-children’s self-esteem and raise their aspirations. 
+##School Rewards
 
-Classroom code
+Teachers at Darlinghurst believe in using rewards to promote positive behaviour. Rewards include:
 
-At the beginning of each school year, teachers and children
-work out a classroom code and rewards for good behaviour. The main parts of the
-code are:
+* Praise, public and private
+* Student of the Week Awards that run in line with the school's core values
+* House points for ...
+* Golden tickets for ...
+* Fast passes for ...
+* Positive comments to parents
+* Opportunities for greater responsibilities
+* Opportunities for children to participate in a chosen activity.
 
-Respect for myself 
+>_A Golden Ticket winner is dearwn each week. Prizes have included ..._
 
-Respect for others 
+#Health and wellbeing
 
-Respect for property
+##Illness and accidents
 
-The Behaviour Pyramid
+[To be added]
 
-Teachers and children also talk about the Behaviour Pyramid,
-which is a chart that shows how teachers will deal with negative or disruptive
-behaviour. A copy of the pyramid is displayed in each classroom and around the
-school.
+##Bullying
+Darlinghurst aims to ensure that children learn in a supportive, caring and safe environment without fear of being bullied. Bullying
+is anti-social behaviour and affects everyone; it is unacceptable and will not be tolerated.
 
-For more information, see Darlinghurst’s Promoting Positive
-Behaviour Policy http://www.darlinghurst.uk/documents/behaviour-policy.pdf and
-the Behaviour Pyramid 
-http://www.darlinghurst.uk/documents/behaviour-policy.pdf
-
-Bullying
-
-Darlinghurst aims to ensure that children learn in a
-supportive, caring and safe environment without fear of being bullied. Bullying
-is anti-social behaviour and affects everyone; it is unacceptable and will not
-be tolerated.
-
-Bullying is defined as deliberately hurtful behaviour,
-repeated over a period of time, where it is difficult for those being bullied
-to defend themselves. All school staff, including teachers and middays, look
-out for signs of bullying and will act promptly and firmly to stop it.
+Bullying is defined as deliberately hurtful behaviour, repeated over a period of time, where it is difficult for those being bullied
+to defend themselves. All school staff, including teachers and middays, look out for signs of bullying and will act promptly and firmly to stop it.
 
 The four main types of bullying are: 
 
-Physical – e.g. hitting, kicking, theft
+* Physical – e.g. hitting, kicking, theft
+* Verbal – e.g. name-calling, racist remarks
+* Indirect – e.g. spreading rumours, excluding someone from social group
+* Cyber-bullying – using electronic devices and digital media – e.g. text message, picture/video clips (via mobile phone cameras),
+phone call, social media, instant messaging, emails. 
 
-Verbal – e.g. name-calling, racist remarks
+Staff will take seriously and investigate all reports of bullying. The class teacher will keep a record of all reported incidents in
+a in a black box. Teachers will take steps to reassure and keep safe children who have been victims of bullying, and will punish
+bullies when appropriate. And they will always keep parents informed.
 
-Indirect – e.g. spreading rumours, excluding someone from
-social group
-
-Cyber-bullying – using electronic devices and digital media e.g.
-text message, picture/video clips (via mobile phone cameras), phone call, social
-media, instant messaging, emails. 
-
-Staff will take seriously and investigate all reports of
-bullying. The class teacher will keep a record of all reported incidents in a
-in a black box. Teachers will take steps to reassure and keep safe children who
-have been victims of bullying, and will punish bullies when appropriate. And
-they will keep parents informed.
-
-Teachers and children discuss bullying as part of the
-personal social and health education curriculum, and also in class tutorial
+Teachers and children discuss bullying as part of the personal social and health education curriculum, and also in class tutorial
 time, assemblies ad anti-bullying week. 
 
-Parents should also read the anti-bulling code and talk
-about it with their children. Remind them that that they must tell someone if
-they are ever bullied. 
+Parents should also read the school's anti-bullying code and talk about it with their children. Remind them that that they must tell someone if they are ever bullied.  
 
-You can find Darlinghurst’s Anti-bullying Policy on the
-school website 
-http://www.darlinghurst.uk/documents/pupil-anti-bullying-policy-2015.pdf
+You can find Darlinghurst’s [Anti-bullying Policy](http://www.darlinghurst.uk/documents/pupil-anti-bullying-policy-2015.pdf) on the school website 
 
-Sex and Relationships Education
+#Pupil support 
 
-Teachers at Darlinghurst feel that the primary role in
-children’s sex and relationship education lies with parents and carers. They
-want to help parents through mutual understanding, trust and cooperation. But parents
-have the right to withdraw their child from all or part of the school’s sex and
-relationship education programme. 
+##Additional educational needs
+Darlinghurst is a fully inclusive school that strives to ensure that all children achieve their potential personally, socially,
+emotionally and academically in all areas of the curriculum, regardless of their gender, ethnicity, social background, religion,
+physical ability and educational needs.
 
-Darlinghurst teaches relationship and sex education in
-different parts of the curriculum. This is mainly as part of personal, social
-and health education curriculum, but also in other subject areas (e.g.
-science). 
+Teachers at Darlinghurst recognise that children learn at different rates and that many factors affect achievement, including
+ability, emotional state, age and maturity. Teachers believe that many children, at some time in their school career, may have
+difficulties that affect their learning, and that these may be long or short term.
 
-Children learn about: 
+##Special educational needs
+Children may have a disability or a special educational need (SEN) if they have a learning need that means they need extra help. This
+does not include – on it sown – speaking a home language other than English.
 
-The physical development of their bodies as they grow into
-adults
-
-The way human’s reproduce
-
-Respect for their own bodies and the importance of sexual
-activity as part of a committed, long-term, and healthy and loving relationship
-
-The importance of family life
-
-Moral questions
-
-Relationship issues
-
-Respect for other people’s views
-
-Sex abuse and what to do if they are worried about any sexual
-matters
-
-The issue of consent.
-
-Children learn about sex and relationship education in the
-context of the school’s aims and values. While this means that teachers give
-children information about relationships and sexual behaviour, they do this
-with an awareness of the moral code and values that underpin all work in
-school. In particular, Darlinghurst teaches sex education in the belief that: 
-
-It should be taught in the context of a loving relationship
-and family life.
-
-It is part of a wider social, personal, spiritual and moral
-education process.
-
-Children should learn to have respect for their own bodies.
-
-Children should learn about their responsibilities to
-others, and be aware of the consequences of sexual activity.
-
-Children should learn that it is important to build positive
-relationships with others, involving trust and respect.
-
-For more information, see Darlinghurst’s Relationship and
-Sex Education Policy http://www.darlinghurst.uk/documents/relationship-and-sex-education-policy-2015.pdf
-or contact Assistant Principal Mrs Cooke mrscooke@darlinghurst.co.uk
-
-[]()[]()[]()Pupil Support 
-
-Additional Educational Needs
-
-Darlinghurst is a fully inclusive school that strives to
-ensure that all children achieve their potential personally, socially,
-emotionally and academically in all areas of the curriculum, regardless of
-their gender, ethnicity, social background, religion, physical ability and
-educational needs.
-
-Teachers at Darlinghurst recognise that children learn at
-different rates and that many factors affect achievement, including ability,
-emotional state, age and maturity. Teachers believe that many children, at some
-time in their school career, may have difficulties that affect their learning,
-and that these may be long or short term.
-
-Special Educational Needs
-
-Children may have a disability or a special educational need
-(SEN) if they have a learning need that means they need extra help. This does
-not include – on it sown – speaking a home language other than English.
 Children have a learning need if, for example:
+* They have a significantly greater difficulty in learning than the majority of children of the same age.
+* They have a disability that prevents or hinders them from making use of educational facilities of a kind generally provided for
+children of the same age in local schools.
+* They do significantly less well than expected for their age range.
 
-They have a significantly greater difficulty in learning
-than the majority of children of the same age.
+For more information, see the school's [Special Educational Needs Policy](http://www.darlinghurst.uk/documents/special-educational-needs-sen.pdf) and [SEN Report](http://www.darlinghurst.uk/documents/sen-information-report.pdf)
 
-They have a disability that prevents or hinders them from
-making use of educational facilities of a kind generally provided for children
-of the same age in local schools.
+You can also contact the school Inclusion Leader and Special Educational Needs Coordinator (SENCo) Mrs Grant: [mrsgrant@darlinghurst.co.uk](mrsgrant@darlinghurst.co.uk)
 
-They do significantly less well than expected for their age
-range.
+#Pupil Premium
 
-For more information, see the schools Special Educational
-Needs Policy http://www.darlinghurst.uk/documents/special-educational-needs-sen.pdf
-and SEN Report  http://www.darlinghurst.uk/documents/sen-information-report.pdf
+[To be added.]
 
-You can also contact the school Inclusion Leader and Special
-Educational Needs Coordinator (SENCo) Mrs Grant mrsgrant@darlinghurst.co.uk
+#Young Carers
 
-Young Carers
+Young Carers are children under 18 years of age who help to look after a family member who is disabled, physically or mentally ill or
+has substance misuse problems. Caring can involve physical or emotional care or taking responsibility for someone’s safety or
+wellbeing. The level or responsibility young carers take on is often inappropriate to their age and at a level beyond simply helping
+out with jobs at home, which is a normal part of growing up.
 
-Young Carers are children under 18 years of age who help to
-look after a family member who is disabled, physically or mentally ill or has
-substance misuse problems. Caring can involve physical or emotional care or
-taking responsibility for someone’s safety or wellbeing. The level or
-responsibility young carers take on is often inappropriate to their age and at
-a level beyond simply helping out with jobs at home, which is a normal part of
-growing up.
+>_As part of the Children’s Society and Carers’ Trust **Young Carers in Schools Programme**, in April 2015 Darlinghurst was the first
+school locally, and one of the first nationally, to get a Bronze Award, and in September got a Silver Award._
 
-* As part of the
-Children’s Society and Carers’ Trust **Young
-Carers in Schools Programme**, in April 2015 Darlinghurst was the first
-school locally, and one of the first nationally, to get a Bronze Award, and in
-September got a Silver Award.
+If you think that your child does this, you can speak to the school Inclusion Lead Mrs Grant [mrsgrant@darlinghurst.co.uk]mrsgrant@darlinghurst.co.uk
+or the Learning Mentor Mrs Johnson [mrsjohnson@darlinghurst.co.uk](mrsjohnson@darlinghurst.co.uk).
 
-If you think that your child does this, you can speak to the
-school Inclusion Lead Mrs Grant mrsgrant@darlinghurst.co.uk or the Learning
-Mentor Mrs Johnson mrsjohnson@darlinghurst.co.uk.
+For more information see Darlinghurst’s [Young Carers Policy](http://www.darlinghurst.uk/documents/young-carers-policy.pdf)
 
-For more information see Darlinghurst’s Young Carers Policy
-http://www.darlinghurst.uk/documents/young-carers-policy.pdf
+#Bilingual children 
 
-[]()[]()[]()[]()[]()[]()Bilingual children 
+##Raising and Educating Bilingual Children
+Being able to speak two languages has numerous educational, social and economic benefits, particularly in an increasingly globalised
+world. For many parents of different cultures, it provides their child with a link to their family heritage. 
 
-Raising and Educating Bilingual Children
+Figures suggest that around 70% of the world’s population speak two languages fluently, but raising children as bilingual in the UK
+is still seen as pretty ‘special’ and rare. Bilingual children in the UK usually have at least one parent who speaks another
+language. But being able to speak two languages or more can have significant benefits, opening up a wealth of job opportunities for
+your child when they are older. Often it gives them a strong link to another culture, usually one that is tied up in their family
+history.
 
-Being able to speak two languages has numerous educational,
-social and economic benefits, particularly in an increasingly globalised world.
-For many parents of different cultures, it provides their child with a link to
-their family heritage. 
+There are two recognised methods of raising bilingual children. One is to speak the minority language at home, and speak the majority
+language at school and in the wider community. The other is One Parent One Language (OPOL), where the parents speak the two different
+languages to the child from birth. 
 
-Figures suggest that around 70% of the world’s population
-speak two languages fluently, but raising children as bilingual in the UK is
-still seen as pretty ‘special’ and rare. Bilingual children in the UK usually
-have at least one parent who speaks another language. But being able to speak
-two languages or more can have significant benefits, opening up a wealth of job
-opportunities for your child when they are older. Often it gives them a strong
-link to another culture, usually one that is tied up in their family history.
+For example, a British man has a Russian wife, and has raised his daughters, aged three and seven, to speak both Russian and English.
+He only speaks English to his girls, while his wife has always spoken Russian to them. They could understand both English and Russian
+before they could talk, and can now speak both languages fluently. 
 
-There are two recognised methods of raising bilingual
-children. One is to speak the minority language at home, and speak the majority
-language at school and in the wider community. The other is One Parent One
-Language (OPOL), where the parents speak the two different languages to the
-child from birth. 
+**Tips for raising bilingual children**
 
-For example, an British man has a Russian wife, and has
-raised his daughters, aged three and seven, to speak both Russian and English. He
-only speaks English to his girls, while his wife has always spoken Russian to
-them. They could understand both English and Russian before they could talk,
-and can now speak both languages fluently. 
-
-tips for raising bilingual children: 
-
-Use a recognised method (minority language at home, or OPOL,
-for example) and be consistent. 
-
-What degree of bilingualism are you aiming for? Some parents
-will be happy with their child just understanding a second language without
-speaking it (passive bilingualism) but others will want their child to
-eventually read, write, listen and speak both languages. 
-
-Be patient. There will be times when children do not
-understand one language, or hear one and reply in the other – just keep
+* Use a recognised method (e.g. minority language at home or OPOL) and be consistent. 
+* Decide what level of bilingualism you are aiming for. Some parents will be happy with their child just understanding a second
+language without speaking it (passive bilingualism) but others will want their child to eventually read, write, listen and speak both
+languages. 
+* Be patient. There will be times when children do not understand one language, or hear one and reply in the other – just keep
 persevering. 
+* Keep speaking your native or the minority language with the children, and mix this non-English language into daily activities. 
+* Provide creative and exciting opportunities to expand children’s vocabulary and cultural knowledge in and outside the home. 
+* Create a support network with family members and friends in the community, including online social sites. Meet other parents, school educators, children who speak the second language, or a friendly librarian who can get you interesting books in your native
+language. 
 
-Keep speaking your native or the minority language with the
-children, and mix this non-English language into daily activities. 
-
-Provide creative and exciting opportunities to expand children’s
-vocabulary and cultural knowledge in and outside the home. 
-
-Create a support network with family members and friends in
-the community, including online social sites. Meet other parents, school
-educators, children who speak the second language, or a friendly librarian who
-can get you interesting books in your native language. 
-
-Links
-
+##Links and resources
 http://www.montessorisociety.org.uk/article/supporting-bilingual-children
-
 http://www.naldic.org.uk/eal-initial-teacher-education/resources/early-years/
-
 http://www.literacytrust.org.uk/talk_to_your_baby/key_topics/1333_bilingualism_and_english_as_an_additional_language
 (you can find lots of links to different subjects) 
-
 http://www.bbc.co.uk/schools/parents/english_as_additional_language/
 
-Parent–School Communication 
-
-[To be added]
-
-Workshops for Parents 
-
-[To be added]
-
-Useful Links Page
+Useful links page
 
 [To be added]
