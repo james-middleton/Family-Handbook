@@ -11,7 +11,7 @@ This handbook provides information for families on all aspects of school life. T
 The handbook has been written to answer questions you may have about children’s time at school. However, if you have any individual
 questions or concerns about your child’s education, or the care of your child while they are at Darlinghurst, the staff, including the Principal Mrs Patrick, are always willing to discuss this. You can find their contact details in the handbook and on the school website. 
 
-The handbook is menat to be a 'living', which menas that it can change. If you would like to change something in it or add something to it email principal@darlinghurst.co.uk
+The handbook is meant to be a 'living', which menas that it can change. If you would like to change something in it or add something to it email principal@darlinghurst.co.uk
 
 ##Plan of the school
 
