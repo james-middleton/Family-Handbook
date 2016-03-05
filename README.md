@@ -20,6 +20,7 @@ The handbook is meant to be a 'living' guide, which means that it can change. If
 ##School buildings and playgrounds
 
 [A description of the buildings, facilities, space.]
+___
 
 #Staff at Darlinghurst
 There is a wide range of staff at Darlinghurst, who have varied and valuable skills and expertise. The majority of teachers also take on additional voluntary responsibilities, such as running afterschool or lunchtime clubs. Darlinghurst has a total of five cover tutors who are available to cover classes should a regular teacher be unable to attend. [Mention background checks?]
@@ -76,6 +77,7 @@ Darlinghurst provides ‘wrap-around care’ for children, from 7.45am until 6.0
 ensuring children are supervised and kept safe during Breakfast Club, at lunch time, and the Acorns Afterschool Club.
 
 If you would like to become a Midday, contact [principal@darlinghurst.co.uk](principal@darlinghurst.co.uk)
+___
 
 #Parent–School Communication 
 
@@ -124,7 +126,7 @@ The Darlinghurst Community Forum is a group made up predominantly of, but not li
 ###What is it for?
 The Forum is an opportunity for open, positive, respectful discussion about issues that affect the whole school. 
 
-For specific concerns about children, your first point of call should always be their class teacher. For issues to do with staff, contact the [School Office](pupilservices@darlinghurst.co.uk) or [Mrs Patrick](principal@darlinghurst.co.uk)
+For specific concerns about children, your first point of call should always be their class teacher. For issues to do with staff, contact the [School Office](pupilservices@darlinghurst.co.uk) or [Mrs Patrick](principal@darlinghurst.co.uk).
 
 Examples of issues that have been discussed include:
 
@@ -146,10 +148,10 @@ You can find the [Darlinghurst Community Group](https://m.facebook.com/groups/Da
 
 If you are not on Facebook and would like to join the Forum, or would like to raise an issue for discussion without becoming a member, [email Mrs Patrick](principal@darlinghurst.co.uk).
 
-
 ##Workshops for parents 
 
 [To be added]
+___
 
 #The Governing Body 
 The members of the [Governing Body](http://www.darlinghurst.uk/policies-and-governance/governors/) – governors – make sure that all
@@ -192,6 +194,7 @@ They also represent Key Stage 1 classes under a ‘buddy system’, so each Key 
 The Junior Governors make sure that children have a voice in decisions about the school. They meet every two weeks at lunchtime and
 have discussed issues such as healthy eating, homework, and deciding which local charity to support They also take part in
 interviewing new teachers. 
+___
 
 #Preparing Your Child for School 
 
@@ -249,6 +252,7 @@ Essex SS0 7LP
 Tel:  0844 686 9080
 
 You can also [buy Darlinghurst uniform online](http://www.schoolwearshops.co.uk/). The password is Darlinghurst08
+___
 
 #The School Day
 
@@ -430,6 +434,7 @@ Some children at school have serious nut allergies, and for this reason you shou
 lunches. 
 
 Packed lunches should be brought in a suitable lunchbox, clearly marked with your child’s name and class.
+___
 
 #The Curriculum at Darlinghurst
 
@@ -844,6 +849,7 @@ You can find out more information about particular subjects and overviews for ea
 * [Outdoor learning](http://www.darlinghurst.uk/school/outdoor-learning/)
 * [Parent helpers and volunteers](http://www.darlinghurst.uk/documents/parent-helpers-and-volunteers.pdf)
 * [Phonics](http://www.darlinghurst.uk/documents/phonics-at-darlinghurst.pdf)
+___
 
 #Homework and Independent Learning 
 Pupils at Darlinghurst get different types of homework, including weekly spellings, reading and maths. Sometimes, homework may be a
@@ -910,6 +916,7 @@ You can find resources to help you help children with reading, writing and maths
 * % strongly disagreed 
 
 Homework will always divide opinion, with some believing there is too much and others too little. Teachers at Darlinghurst believe that education is a joint responsibility between school and parents, and that together we can find the right balance. If you have any concerns, talk to your child’s teacher. 
+___
 
 #Outdoor Learning
 Learning outside the classroom means using places other than the classroom for teaching and learning. It is about getting pupils
@@ -930,10 +937,12 @@ Darlinghurst’s outdoor learning facilities include:
 For outdoor learning children should wear ...
 
 For more information, [contact Ms Arnold](msarnold@darlinghurst.co.uk) or [contact Miss Hydes]( mrshydes@darlinghurst.co.uk) or come to one of the outdoor learning family days.
+___
 
 #School Assemblies 
 
 [To be added]
+___
 
 #Trips and Outings 
 Teachers at Darlinghurst believe that trips outside school are invaluable to children, not only in terms of the educational gains but
@@ -953,6 +962,7 @@ Teachers are always in need of volunteers to help supervise the trips.
 ##Help with the cost of trips
 It may be possible to get financial help with school trips. If you think you qualify, [contact the School Office](pupilservices@darlinghurst.co.uk) for more 
 information.
+___
 
 #Promoting Positive Behaviour
 
@@ -1000,6 +1010,7 @@ equal._
 The children receive house points to reward positive behaviour, especially when it is above and beyond what teachers’ would normally
 expect. This rewards courteous and collaborative behaviour, and encourage children to work well and respect everyone in the
 community.
+___
 
 #Health and Wellbeing
 
@@ -1032,6 +1043,7 @@ time, assemblies ad anti-bullying week.
 Parents should also read the school's anti-bullying code and talk about it with their children. Remind them that that they must tell someone if they are ever bullied.  
 
 You can find Darlinghurst’s [Anti-bullying Policy](http://www.darlinghurst.uk/documents/pupil-anti-bullying-policy-2015.pdf) on the school website 
+___
 
 #Pupil Support 
 
@@ -1081,10 +1093,11 @@ school locally, and one of the first nationally, to get a Bronze Award, and in S
 If you think that your child does this, [contact Mrs Grant](mrsgrant@darlinghurst.co.uk), the inclusion lead or [contact Mrs Johnson](mrsjohnson@darlinghurst.co.uk), the learning mentor.
 
 For more information see Darlinghurst’s [Young Carers Policy](http://www.darlinghurst.uk/documents/young-carers-policy.pdf)
+___
 
-#Bilingual Children 
+##Bilingual Children 
 
-##Raising and educating bilingual children
+###Raising and educating bilingual children
 Being able to speak two languages has numerous educational, social and economic benefits, particularly in an increasingly globalised
 world. For many parents of different cultures, it provides their child with a link to their family heritage. 
 
@@ -1115,13 +1128,13 @@ persevering.
 * Create a support network with family members and friends in the community, including online social sites. Meet other parents, school educators, children who speak the second language, or a friendly librarian who can get you interesting books in your native
 language. 
 
-##Links and resources
+###Links and resources
 * http://www.montessorisociety.org.uk/article/supporting-bilingual-children
 * http://www.naldic.org.uk/eal-initial-teacher-education/resources/early-years/
 * http://www.literacytrust.org.uk/talk_to_your_baby/key_topics/1333_bilingualism_and_english_as_an_additional_language
 (you can find lots of links to different subjects) 
 * http://www.bbc.co.uk/schools/parents/english_as_additional_language/
 
-Useful links page
+#Useful Links and Resources
 
 [To be added]
