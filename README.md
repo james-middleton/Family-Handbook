@@ -65,7 +65,7 @@ _[Description of role and responsibilities.]_
 ###The school office
 _[Description of roles and responsibilities.]_
 
-###Groudskeepers
+###Groundskeepers
 _[Description of roles and responsibilities.]_
 
 ###Kitchen staff
@@ -112,7 +112,7 @@ dressing as an elf for the Christmas fair, making cakes or looking after a bounc
 of time or skills are gratefully received.
 
 If you are interested in joining, go to the [PTA page](http://www.darlinghurst.uk/information/darlinghurst-pta/) on the school website or the [PTA’s Facebook page](https://www.facebook.com/Darlinghurst-School-PTA-Leigh-on-Sea-213317208690232/)
-or email [darlinghurstpta@hotmail.com](darlinghurstpta@hotmail.com)
+or [email Darlinghurst PTA](darlinghurstpta@hotmail.com).
 
 You can also find the [Darlinghurst School PTA](https://m.facebook.com/Darlinghurst-School-PTA-Leigh-on-Sea-213317208690232/) on Facebook.
 
@@ -139,12 +139,12 @@ Examples of issues that have been discussed include:
 * Summer School
 
 ###How it works
-The Forum runs an active Facebook group. It also meets six times a year. Dates are set each half term so that as many people as possible can attend. Dates are announced in News & Views (http://www.darlinghurst.uk/information/). Meetings take place at the school during the week, usually between 1.30pm and 3.15pm,
+The Forum runs an active Facebook group. It also meets six times a year. Dates are set each half term so that as many people as possible can attend. Dates are announced in News & Views (http://www.darlinghurst.uk/information/). Meetings take place at the school during the week, usually between 1.30pm and 3.15pm.
 
 ###Contact the Forum
 You can find the [Darlinghurst Community Group](https://m.facebook.com/groups/DarlinghurstCF/) on Facebook. 
 
-If you are not on Facebook and would like to join the Forum, or would like to raise an issue for discussion without becoming a member, email principal@darlinghurst.co.uk
+If you are not on Facebook and would like to join the Forum, or would like to raise an issue for discussion without becoming a member, [email Mrs Patrick](principal@darlinghurst.co.uk).
 
 
 ##Workshops for parents 
@@ -152,15 +152,15 @@ If you are not on Facebook and would like to join the Forum, or would like to ra
 [To be added]
 
 #The Governing Body 
-The members of the [Governing Body](http://www.darlinghurst.uk/policies-and-governance/governors/) – governors – make sure that all children’s progress well in their education and that coming to
-Darlinghurst improves their prospects.
+The members of the [Governing Body](http://www.darlinghurst.uk/policies-and-governance/governors/) – governors – make sure that all
+children’s progress well in their education and that coming to Darlinghurst improves their prospects.
 
 The governors make sure that the principal and senior teachers are doing what they should to improve children’s learning outcomes –
 for example, how they do in reading writing and maths – and in an enjoyable and safe environment. 
 
 To see for themselves, the governors visit the school and talk with staff, children, parents and carers. They are also part of important recruitment and financial decisions.
 
->_The Governing Body works with the principal and senior teachers to design the annual [**Academy Improvement Plan**]( http://www.darlinghurst.uk/school/improvement-plan/) and checks that
+>_The Governing Body works with the principal and senior teachers to design the annual [**Academy Improvement Plan**](http://www.darlinghurst.uk/school/improvement-plan/) and checks that
 >teachers are following this._
 
 The Governing Body meets once a month. It is made up of 10 governors, who include the Darlinghurst principal and at least one other staff member, and two elected parent governors. 
@@ -198,8 +198,7 @@ interviewing new teachers.
 [To be added.]
 
 ##School uniform
-
-School uniform is compulsory at Darlinghurst from Reception to Year 6. 
+All pupils at Darlinghurst, from Reception to Year 6, must wear school uniform.
 
 ###Nursery
 **Girls and boys**
@@ -285,7 +284,7 @@ minimum during rush hour.
 [To be added.]
 
 ###Parking
-All parking at Darlinghurst school car park is reserved for teachers and other other staff members. There is a limited parking
+All parking at Darlinghurst school car park is reserved for teachers and other staff members. There is a limited parking
 available in surrounding streets, but these are residential and parents are asked to be aware, and considerate, of the school’s
 neighbours. Inconsiderate parking across local driveways, on double yellow lines, and directly in front of the school has been an
 issue in the past, and local residents have complained. 
@@ -304,7 +303,6 @@ School policy is to call parents on the first day of absence if they have not be
 children should bring a signed note/letter detailing the illness and action taken.
 
 ###Family holidays in term time
-
 Any absence from school needs to be avoided wherever possible because it can have a serious effect on young children’s education
 and development. The school will not give permission for any term-time holidays.
 
@@ -319,7 +317,7 @@ Research shows that children who miss 17 or more days from school during just on
 
 ##Help and advice
 
-If you need any help or advice about attendance, the school family Liaison Officer Mr Noades is in school every day and Miss Walton is available in the School Office on Mondays, Tuesdays, Thursdays and Fridays between 8.00am and 4.00pm. You can aloso contact Miss Walton by phone and email:
+If you need any help or advice about attendance, the school family Liaison Officer Mr Noades is in school every day and Miss Walton is available in the School Office on Mondays, Tuesdays, Thursdays and Fridays between 8.00am and 4.00pm. You can also contact Miss Walton by phone and email:
 
 Tel: 01702 509203
 Email: [pupilservices@darlinghurst.co.uk](pupilservices@darlinghurst.co.uk)
@@ -632,7 +630,7 @@ During computing lessons children use a variety of software, including licensed 
 freeware, which is free to download and use at home. The school curriculum provides opportunities to use ICT in other subjects as
 well.
 
-Find out more about [computing and coding](http://www.darlinghurst.uk/information/computing-and-coding/) on the school website, including links to usefull resources.
+Find out more about [computing and coding](http://www.darlinghurst.uk/information/computing-and-coding/) on the school website, including links to useful resources.
 
 ##English
 
@@ -674,7 +672,7 @@ listening are also the building blocks of successful writing.
 
 English teaching at Darlinghurst lets children hear, say and read different styles of language. They learn to imitate writing from
 their class reading books, with games and activities that help them understand what the writing means and to learn to use the
-language themselves. They also learn to plan, edit and think about their writing. This includes learning aboutgrammar, punctuation
+language themselves. They also learn to plan, edit and think about their writing. This includes learning about grammar, punctuation
 and spelling (spelling tests continue up to Year 6). 
 
 >_**Write for 10** is a daily activity that improves imagination, creative writing and writing stamina. Children write for 10 minutes
@@ -784,7 +782,7 @@ Activities follow the seasons. They are linked with local school sports competit
 Olympics and Paralympics. Each year, the school houses LINK have a chance to compete against one another on Sports Day. Darlinghurst
 also celebrates individual achievements out of school in the weekly [News & Views](http://www.darlinghurst.uk/information/) newsletter.
 
->_The idea behind competing in sports at school and in tournaments and festivals is that it teaches British values such as
+>_The idea behind competing in sports at school and in tournaments and festivals is that it teaches British values such as 
 >**fairness** and **respect**, builds character, and gives children the chance to achieve their best._
 
 The aim at Darlinghurst is to get all children more engaged in PE, to become more physically confident and understand the importance
@@ -837,15 +835,15 @@ Reception curriculum – Mrs Dutton [mrsdutton@darlinghurst.co.uk](mrsdutton@dar
 You can find out more information about particular subjects and overviews for each year group on the [Curriculum](http://www.darlinghurst.uk/school/curriculum/) page of the school website. 
 
 ##Related topics
-[Additional educational needs](http://www.darlinghurst.uk/information/additional-educational-need)s/)
-[Behaviour Policy](http://www.darlinghurst.uk/documents/behaviour-policy.pdf) 
-[Daily routine](http://www.darlinghurst.uk/information/daily-routine/) 
-[E-safety](http://www.darlinghurst.uk/information/e-safety/) 
-[Junior Governors](http://www.darlinghurst.uk/policies-and-governance/governors/junior-governors/)
-[School classes](http://www.darlinghurst.uk/classes/)
-[Outdoor learning](http://www.darlinghurst.uk/school/outdoor-learning/)
-[Parent helpers and volunteers](http://www.darlinghurst.uk/documents/parent-helpers-and-volunteers.pdf)
-[Phonics](http://www.darlinghurst.uk/documents/phonics-at-darlinghurst.pdf)
+* [Additional educational needs](http://www.darlinghurst.uk/information/additional-educational-needs/)
+* [Behaviour Policy](http://www.darlinghurst.uk/documents/behaviour-policy.pdf) 
+* [Daily routine](http://www.darlinghurst.uk/information/daily-routine/) 
+* [E-safety](http://www.darlinghurst.uk/information/e-safety/) 
+* [Junior Governors](http://www.darlinghurst.uk/policies-and-governance/governors/junior-governors/)
+* [School classes](http://www.darlinghurst.uk/classes/)
+* [Outdoor learning](http://www.darlinghurst.uk/school/outdoor-learning/)
+* [Parent helpers and volunteers](http://www.darlinghurst.uk/documents/parent-helpers-and-volunteers.pdf)
+* [Phonics](http://www.darlinghurst.uk/documents/phonics-at-darlinghurst.pdf)
 
 #Homework and Independent Learning 
 Pupils at Darlinghurst get different types of homework, including weekly spellings, reading and maths. Sometimes, homework may be a
@@ -931,7 +929,7 @@ Darlinghurst’s outdoor learning facilities include:
 
 For outdoor learning children should wear ...
 
-For more information, contact Ms Arnold [msarnold@darlinghurst.co.uk](msarnold@darlinghurst.co.uk) or Miss Hydes [mrshydes@darlinghurst.co.uk]( mrshydes@darlinghurst.co.uk) or come to one of the outdoor learning family days.
+For more information, [contact Ms Arnold](msarnold@darlinghurst.co.uk) or [contact Miss Hydes]( mrshydes@darlinghurst.co.uk) or come to one of the outdoor learning family days.
 
 #School Assemblies 
 
@@ -953,8 +951,8 @@ in addition to class trips and may only be available to certain classes or year 
 Teachers are always in need of volunteers to help supervise the trips.
 
 ##Help with the cost of trips
-It may be possible to get financial help with school trips. If you think you qualify, ask at the School Office for more information
-[pupilservices@darlinghurst.co.uk](pupilservices@darlinghurst.co.uk)
+It may be possible to get financial help with school trips. If you think you qualify, [contact the School Office](pupilservices@darlinghurst.co.uk) for more 
+information.
 
 #Promoting Positive Behaviour
 
@@ -989,15 +987,15 @@ Teachers at Darlinghurst believe in using rewards to promote positive behaviour.
 * Opportunities for greater responsibilities
 * Opportunities for children to participate in a chosen activity.
 
->_A Golden Ticket winner is dearwn each week. Prizes have included ..._
+>_Golden Tickets go into a prize draw each week. Prizes have included ..._
 
 ##Darlinghurst’s school houses
 
 Darlinghurst is divided into four teams or houses, named after Knights of the Round Table: Sir Lancelot, Sir Galahad, Sir Gareth and Sir Dinadan. 
 
 >_The legendary knights who sat at King Arthur’s **Round Table** were known for their bravery and determination, but were also
-chivalrous (polite). The knights sat at a round table, rather than a rectangular one, so they could always see and hear one another,
-and it meant that they were equal._
+chivalrous (polite). The knights sat at a round table so they could always see and hear one another, and it meant that they were
+equal._
 
 The children receive house points to reward positive behaviour, especially when it is above and beyond what teachers’ would normally
 expect. This rewards courteous and collaborative behaviour, and encourage children to work well and respect everyone in the
@@ -1058,11 +1056,17 @@ children of the same age in local schools.
 
 For more information, see the school's [Special Educational Needs Policy](http://www.darlinghurst.uk/documents/special-educational-needs-sen.pdf) and [SEN Report](http://www.darlinghurst.uk/documents/sen-information-report.pdf)
 
-You can also contact the school Inclusion Leader and Special Educational Needs Coordinator (SENCo) Mrs Grant: [mrsgrant@darlinghurst.co.uk](mrsgrant@darlinghurst.co.uk)
+You can also [contact Mrs Grant](mrsgrant@darlinghurst.co.uk), the school inclusion leader and special educational needs coordinator
+(SENCo).
 
 ##Pupil Premium
 
-[To be added.]
+Introduced in April 2011, the Pupil Premium is a government initiative that provides additional funding for children from deprived backgrounds, to bring them up to the same academic level as their non-deprived classmates.
+
+The government uses the number of pupils who receive free school meals and that the local authority looks after as a guide. Based on these numbers, schools receive fixed amount of money per pupil. A premium has also been introduced for children whose parents are in the armed forces, for the emotional and social wellbeing of these students.
+
+You can find out more about the [Pupil Premium at Darlinghurst](http://www.darlinghurst.uk/school/pupil-premium/) on the school
+website.
 
 ##Young Carers
 
@@ -1074,8 +1078,7 @@ out with jobs at home, which is a normal part of growing up.
 >_As part of the Children’s Society and Carers’ Trust **Young Carers in Schools Programme**, in April 2015 Darlinghurst was the first
 school locally, and one of the first nationally, to get a Bronze Award, and in September got a Silver Award._
 
-If you think that your child does this, you can speak to the school Inclusion Lead Mrs Grant [mrsgrant@darlinghurst.co.uk]mrsgrant@darlinghurst.co.uk
-or the Learning Mentor Mrs Johnson [mrsjohnson@darlinghurst.co.uk](mrsjohnson@darlinghurst.co.uk).
+If you think that your child does this, [contact Mrs Grant](mrsgrant@darlinghurst.co.uk), the inclusion lead or [contact Mrs Johnson](mrsjohnson@darlinghurst.co.uk), the learning mentor.
 
 For more information see Darlinghurst’s [Young Carers Policy](http://www.darlinghurst.uk/documents/young-carers-policy.pdf)
 
