@@ -359,7 +359,7 @@ Read the current [Darlinghurst lunch menu] SUPPLY LINK
 
 Occasionally, it may be necessary to change menu items, but the kitchen will not compromise on ingredient quality.
 
-*The aim when compiling menus is to use around 90% fresh ingredients 
+* The aim when compiling menus is to use around 90% fresh ingredients 
 * All menus meet nutritional standards
 * The kitchen cooks and serves around 200 school meals for pupils and staff each day
 * Meat is farm assured, Red Tractor Standard
