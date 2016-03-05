@@ -125,7 +125,7 @@ The Darlinghurst Community Forum is a group made up predominantly of, but not li
 ###What is it for?
 The Forum is an opportunity for open, positive, respectful discussion about issues that affect the whole school. 
 
-For specific concerns about children, your first point of call should always be their class teacher. For issues to do with staff contact the School Office or email [principal@darlinghurst.co.uk](principal@darlinghurst.co.uk)
+For specific concerns about children, your first point of call should always be their class teacher. For issues to do with staff, contact the School Office or email [principal@darlinghurst.co.uk](principal@darlinghurst.co.uk)
 
 Examples of issues that have been discussed include:
 
@@ -140,7 +140,7 @@ Examples of issues that have been discussed include:
 * Summer School
 
 ###How it works
-The Forum runs an active Facebook group. It also meets six times a year. Dates are set each half term so that as many people as possible can attend. Dates are published in News & Views and on the [Calendar page](http://www.darlinghurst.uk/calendar/). Meetings take place at the school during the week, usually between 1.30pm and 3.15pm,
+The Forum runs an active Facebook group. It also meets six times a year. Dates are set each half term so that as many people as possible can attend. Dates are announced in News & Views (http://www.darlinghurst.uk/information/). Meetings take place at the school during the week, usually between 1.30pm and 3.15pm,
 
 ###Contact the Forum
 You can find the [Darlinghurst Community Group](https://m.facebook.com/groups/DarlinghurstCF/) on Facebook. 
