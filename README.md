@@ -764,7 +764,7 @@ Pupils also learn about the key beliefs, teachings and practices of religions an
 about their own experiences and their knowledge of these religions, particularly with reference to questions of identity, belonging,
 meaning, purpose, truth, values and commitment.
 
-##Curriculum Contacts
+##Curriculum contacts
 
 For more information about the curriculum you can ask the members of staff listed below:
 
