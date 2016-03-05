@@ -185,7 +185,7 @@ If you are interested in becoming a governor email [principal@darlinghurst.co.uk
 
 ##Junior Governors
 
->_The Junior Governors represented Darlinghurst at the **2015 School Council Summit** at Milton Hall Primary School in Southend, to >talk about what they have been doing at Darlinghurst and sharing ideas._
+>_The Junior Governors represented Darlinghurst at the **2015 School Council Summit** at Milton Hall Primary School in Southend, to talk about what they have been doing at Darlinghurst and sharing ideas._
 
 The [Junior Governors](http://www.darlinghurst.uk/policies-and-governance/governors/junior-governors/) are elected by their classmates. They are made up of one girl and one boy from each Key Stage 2 class. 
 They also represent Key Stage 1 classes under a ‘buddy system’, so each Key Stage 1 class is linked with a Key Stage 2 junior governor. 
@@ -244,7 +244,7 @@ available in surrounding streets, but these are residential and parents are aske
 neighbours. Inconsiderate parking across local driveways, on double yellow lines, and directly in front of the school has been an
 issue in the past, and local residents have complained. 
 
-##Attendance
+##Attendance and absence
 Regular attendance and punctuality is essential if children are to make maximum progress in their education. Although attendance and
 punctuality have improved, Darlinghurst needs families’ help to make sure this continues.
 
@@ -270,7 +270,7 @@ Research shows that children who miss 17 or more days from school during just on
 * 6 hours of social time
 
 >_2 weeks' holiday = 50 hours’ learning; 2 weeks' holiday and 1 week’s illness = 75 hours’ learning!_
-;
+
 ##Help and advice
 
 If you need any help or advice about attendance, the school Family Liaison Officer Mr Noades is in school every day and Miss Walton is available in the School Office on Mondays, Tuesdays, Thursdays and Fridays between 8.00am and 4.00pm. You can aloso contact Miss Walton by phone and email:
