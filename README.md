@@ -933,7 +933,7 @@ Teachers at Darlinghurst believe in using rewards to promote positive behaviour.
 
 >_A Golden Ticket winner is dearwn each week. Prizes have included ..._
 
-##Darlinghurst’s School Houses
+##Darlinghurst’s school houses
 
 Darlinghurst is divided into four teams or houses, named after Knights of the Round Table: Sir Lancelot, Sir Galahad, Sir Gareth and Sir Dinadan. 
 
