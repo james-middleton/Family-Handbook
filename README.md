@@ -3,7 +3,7 @@
 ##A guide to the school for parents, carers and other family members
 
 #Introduction 
-W
+
 ##Welcome to the Darlinghurst School Family Handbook
 
 This handbook provides information for families on all aspects of school life. The handbook, used together with the school website, outlines the school’s administrative arrangements and policies, as well as information about day-to-day life at Darlinghurst.
