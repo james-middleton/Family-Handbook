@@ -1093,9 +1093,8 @@ school locally, and one of the first nationally, to get a Bronze Award, and in S
 If you think that your child does this, [contact Mrs Grant](mrsgrant@darlinghurst.co.uk), the inclusion lead or [contact Mrs Johnson](mrsjohnson@darlinghurst.co.uk), the learning mentor.
 
 For more information see Darlinghurst’s [Young Carers Policy](http://www.darlinghurst.uk/documents/young-carers-policy.pdf)
-___
 
-##Bilingual Children 
+##Bilingual children 
 
 ###Raising and educating bilingual children
 Being able to speak two languages has numerous educational, social and economic benefits, particularly in an increasingly globalised
