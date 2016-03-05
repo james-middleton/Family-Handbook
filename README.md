@@ -213,12 +213,9 @@ interviewing new teachers.
 * **8.55am** Morning session begins
 * **3.10pm** School gates open; Nursery day ends
 * **3.30pm** School day ends
-* **4.00pm** School gates are locked; to collect children from afterschool clubs and Acorns, go to the side entrance next to the
-* carpark.
+* **4.00pm** School gates are locked; to collect children from afterschool clubs and Acorns, go to the side entrance next to the carpark.
 
-You can access the school grounds through two entrances at the front – one through the gate and the other next to the car park, which
-also leads to the bike shed. There is a third entrance to the grounds from Prittle Brook. The entrance to the School Office reception
-is at the front of the school.
+You can access the school grounds through two entrances at the front – one through the gate and the other next to the car park, which also leads to the bike shed. There is a third entrance to the grounds from Prittle Brook. The entrance to the School Office reception is at the front of the school.
 
 It is important to collect children promptly from their designated collection point, usually their classrooms. If you are late, children will be taken to the Acorns afterschool club where they will be looked after until collection. You will have to pay for the Acorns session.
 
