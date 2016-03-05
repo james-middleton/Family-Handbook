@@ -11,7 +11,7 @@ This handbook provides information for families on all aspects of school life. T
 The handbook has been written to answer questions you may have about children’s time at school. However, if you have any individual
 questions or concerns about your child’s education, or the care of your child while they are at Darlinghurst, the staff, including the Principal Mrs Patrick, are always willing to discuss this. You can find their contact details in the handbook and on the school website. 
 
-The handbook is meant to be a 'living', which menas that it can change. If you would like to change something in it or add something to it email principal@darlinghurst.co.uk
+The handbook is meant to be a 'living' guide, which means that it can change. If you would like to change something or add something to it email principal@darlinghurst.co.uk
 
 ##Plan of the school
 
@@ -85,20 +85,19 @@ If you would like to become a Midday, contact [principal@darlinghurst.co.uk](pri
 The address of school website is [www.darlinghurst.uk](www.darlinghurst.uk). It is regularly updated and includes contact
 details for teachers and other staff members. 
 
-In the [Information for Parents](http://www.darlinghurst.uk/information/) section you will find a school [Calendar](http://www.darlinghurst.uk/calendar/) with dates of
-school outings, plays, shows, and other school events. 
+In the [Information for Parents](http://www.darlinghurst.uk/information/) section you will find a school [Calendar](http://www.darlinghurst.uk/calendar/) with dates of school outings, plays, shows, and other school events. 
 
 Current and past editions of the weekly News & Views school newsletter are also posted here, along with links to school policies and
 other useful information.
 
-The [News](http://www.darlinghurst.uk/news/)section shows pictures  and videos of recent school activities, celebrating the children 
-and their achievements. (Darlinghurst has a strict children protection policy. Children’s photos will only appear on the
-website with their parents’ permission. For this reason, _**we ask families not to take photos or videos at school events**_.
+The [News](http://www.darlinghurst.uk/news/) section shows pictures  and videos of recent school activities, celebrating the children
+and their achievements. 
+
+Darlinghurst has a strict children protection policy. Children’s photos will only appear on the website with their parents’ permission. For this reason, _**we ask families not to take photos or videos at school events**_.
 
 ##The Parents and Teachers Association (PTA) 
-Darlinghurst parents and teachers association (PTA) is a group that organises events during the school year to raise money for the
-‘little extras’ that benefit all children during their time at the school. These are things that the normal school budget does not
-normally cover, such as …
+The Darlinghurst parents and teachers association (PTA) is a group that organises events during the school year to raise money for
+the ‘little extras’ that benefit all children during their time at the school. These are things that the normal school budget does not normally cover, such as …
 
 Meetings are usually held each half term, in the morning, straight after school drop-off and are open to anyone with a child at the
 school. If childcare is a problem, you are welcome to bring younger brothers and sisters along too.
@@ -125,7 +124,7 @@ The Darlinghurst Community Forum is a group made up predominantly of, but not li
 ###What is it for?
 The Forum is an opportunity for open, positive, respectful discussion about issues that affect the whole school. 
 
-For specific concerns about children, your first point of call should always be their class teacher. For issues to do with staff, contact the School Office or email [principal@darlinghurst.co.uk](principal@darlinghurst.co.uk)
+For specific concerns about children, your first point of call should always be their class teacher. For issues to do with staff, contact the [School Office](pupilservices@darlinghurst.co.uk) or [Mrs Patrick](principal@darlinghurst.co.uk)
 
 Examples of issues that have been discussed include:
 
@@ -200,7 +199,57 @@ interviewing new teachers.
 
 ##School uniform
 
-[To be added]
+School uniform is compulsory at Darlinghurst from Reception to Year 6. 
+
+###Nursery
+**Girls and boys**
+* Gold t-shirt
+* Red sweatshirt/cardigan
+* Red jogging bottoms
+
+###Reception to Year 5
+**Boys**
+* Red V-neck jumper/sweatshirt
+* White polo shirt
+* Dark grey or black trousers
+* Black or white socks
+* Black shoes
+
+**Girls**
+* Red V-neck jumper/cardigan/sweatshirt
+* White polo shirt
+* Dark grey or black skirt/trousers/pinafore
+* Red, black or white socks/tights
+* Black shoes
+* Red and white gingham dresses may be worn during the summer term.
+
+###Year 6
+**Boys**
+* White collared shirt
+* Red jumper/sweatshirt
+* Grey trousers
+* Black shoes
+* School tie
+
+**Girls**
+* White collared shirt
+* Red jumper/cardigan
+* Grey trousers/skirt
+* Red, black or white socks/tights
+* Black shoes
+* School tie
+
+_Pupils get their first school tie for free at the beginning of the academic year._
+
+You can buy all items of uniform from:
+
+School Wear Centres
+96 Hamlet Court Road
+Westcliff-on-Sea
+Essex SS0 7LP
+Tel:  0844 686 9080
+
+You can also [buy Darlinghurst uniform online](http://www.schoolwearshops.co.uk/). The password is Darlinghurst08
 
 #The School Day
 
@@ -270,7 +319,7 @@ Research shows that children who miss 17 or more days from school during just on
 
 ##Help and advice
 
-If you need any help or advice about attendance, the school Family Liaison Officer Mr Noades is in school every day and Miss Walton is available in the School Office on Mondays, Tuesdays, Thursdays and Fridays between 8.00am and 4.00pm. You can aloso contact Miss Walton by phone and email:
+If you need any help or advice about attendance, the school family Liaison Officer Mr Noades is in school every day and Miss Walton is available in the School Office on Mondays, Tuesdays, Thursdays and Fridays between 8.00am and 4.00pm. You can aloso contact Miss Walton by phone and email:
 
 Tel: 01702 509203
 Email: [pupilservices@darlinghurst.co.uk](pupilservices@darlinghurst.co.uk)
@@ -282,19 +331,19 @@ Classrooms are open from 8.30am. The register closes at 8.55am. If children arri
 If you arrive after 8.55am, you should go to the School Office, at the front of the school, and a member of staff will take children to their classroom or the nursery.
 
 **Nursery**
-Morning session: 8.30–11.30am
-Afternoon session: 12.10–3.10pm
+* Morning session: 8.30–11.30am
+* Afternoon session: 12.10–3.10pm
 
 **Reception**
-Maths meetings and phonics sessions every morning for 15 minutes each.
+* Maths meetings and phonics sessions every morning for 15 minutes each.
 
 **Key Stage 1 (Years 1 and 2)**
-Maths meetings and phonics sessions every morning for 20 minutes each.
-Guided reading every afternoon for 20 minutes.
+* Maths meetings and phonics sessions every morning for 20 minutes each.
+* Guided reading every afternoon for 20 minutes.
 
 **Key Stage 2 (Years 3 to 6)**
-Maths meetings every morning for 20 minutes.
-Guided reading every afternoon for 20 minutes.
+* Maths meetings every morning for 20 minutes.
+* Guided reading every afternoon for 20 minutes.
 
 ###Break times and lunch
 
@@ -573,8 +622,7 @@ underpin all work in school. In particular, Darlinghurst teaches sex education i
 * Children should learn about their responsibilities to others, and be aware of the consequences of sexual activity.
 * Children should learn that it is important to build positive relationships with others, involving trust and respect.
 
-For more information, see Darlinghurst’s [Relationship and Sex Education Policy](http://www.darlinghurst.uk/documents/relationship-and-sex-education-policy-2015.pdf) or contact Assistant Principal Mrs Cooke
-[mrscooke@darlinghurst.co.uk](mrscooke@darlinghurst.co.uk)
+For more information, see Darlinghurst’s [Relationship and Sex Education Policy](http://www.darlinghurst.uk/documents/relationship-and-sex-education-policy-2015.pdf) or [contact Assistant Principal Mrs Cooke](mrscooke@darlinghurst.co.uk).
 
 ##Computing and coding at Darlinghurst
 The Information Communications and Technology (ICT) curriculum changed to Computing in 2015, with an emphasis on learning 
@@ -673,7 +721,7 @@ statistics, and using tables and charts.
 As part of the connected curriculum, teachers use real life examples whenever possible and make links to other subjects (e.g.
 science, geography).
 
-You can find an [overview of the curriculum](http://www.darlinghurst.uk/documents/maths-at-darlinghurst.pdf) for each year group on the school website 
+You can find an [overview of the curriculum](http://www.darlinghurst.uk/documents/maths-at-darlinghurst.pdf) for each year group on the school website. 
 
 Under the [Maths](http://www.darlinghurst.uk/school/curriculum/maths/) section of the website, you can also read the school's Maths policies in full, find a [calculation glossary of terms](http://www.darlinghurst.uk/documents/calculation-glossary-of-terms.pdf)
 and see slides from previous maths workshops.
@@ -700,7 +748,7 @@ The school currently offers lessons for the keyboard, flute, clarinet, saxophone
 violin and singing. 
 
 An informal lunchtime Music Theory Club, which is free of charge, also helps those learning instruments, whether at school or
-independently.
+independently. For more information, [contact Mr Moore](mrmoore@darlinghurst.co.uk).
 
 ##Physical education and sports
 All children at Darlinghurst take part in one hour of PE each week. There are also 16 sports and activity clubs that run before and
