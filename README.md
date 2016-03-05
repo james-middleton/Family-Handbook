@@ -315,8 +315,16 @@ Lunch times are staggered:
 ###Breakfast Club 
 The Breakfast Club is open to all Darlinghurst pupils. It opens at 7.45am and costs £2.00 per child per morning. Parents must contact the School Office to confirm a place before children can attend.
 
+Children can choose from a range of breakfast cereals, along with toast and fruit juice, and sometimes yoghurts and special items, such as croissants.
+
+The club provides computers for the children to use. Activities take place in the main hall four days a week, including singing, dancing and more organised games. At least one day a week is dedicated to exercise.
+
 ###Acorns Afterschool Club
 Acorns is separate and different from afterschool activity clubs. Pupils can attend from 3.30pm to 6.00pm for £6 per day (£5 if you pay in advance). 
+
+The club organises fun activities including drama, art, cooking, using computers and iPads, and sports.
+
+You can download the [Acorns registration](http://www.darlinghurst.uk/documents/acorns-registration-form.pdf) form from the school website.
 
 ###Lunchtime and afterschool activities
 
@@ -324,7 +332,9 @@ Other lunch time and after school clubs are rotated by staff each half term. Eve
 least one club at some point during the year. If spaces are limited, children who have not been able to go to any clubs before then
 get priority. 
 
-_To drop off and pick up children from clubs out of normal school hours you can access the school through the carpark entrance._
+Afterschool clubs begin at 3.40pm and finish at 4.15pm, with the exceptions of modelling kit club, which will finish at 4.45pm, and futsal and karate, which finish at 4.30pm.
+
+You can find a [list of current clubs](http://www.darlinghurst.uk/schoolday/school-clubs/) and a map of [where to collect children from clubs](http://www.darlinghurst.uk/documents/club-collection-point-map.pdf) on the school website.
 
 ##Lunch and school meals
 For most pupils, school lunches cost £2 per child. You should pay at the start of the week by giving the money in an envelope to the class teacher. You can buy envelopes from the School Office. You can also pay in advance by cheque, making cheques payable to
@@ -454,11 +464,11 @@ The school also provides religious education (RE), physical education (PE) and m
 Under the connected curriculum, teachers follow an ‘adopt, adapt, create’ plan, which means that there is no set timetable for
 different subjects, but each one gets a special focus each half-term over the school year. 
 
-##Core Learning Skills Curriculum
+##Core learning skills curriculum
 Core skills are personal learning and life skills that children develop beside subject learning. They are a second layer of the
 curriculum and teachers focus on one each half-term.
 
-**The Core Learning Skills**
+**Core learning skills**
 
 * Learning with others
 * Developing independence and responsibility
@@ -576,7 +586,7 @@ well.
 
 Find out more about [computing and coding](http://www.darlinghurst.uk/information/computing-and-coding/) on the school website, including links to usefull resources.
 
-##English at Darlinghurst
+##English
 
 ###Reading
 Darlinghurst uses the [Letters and Sounds](http://www.darlinghurst.uk/documents/phonics-at-darlinghurst.pdf) programme, which uses phonics to teach children to read and spell. Children in Key Stage 1
@@ -607,6 +617,8 @@ development. It will give them enjoyment, but also skills for lifelong learning.
 Children can easily get books in their classrooms and from the school library. Teachers encourage them to use the library during
 playtimes and lunchtimes, as well as timetabled slots, to make sure they can get high-quality reading materials whenever they wish.
 
+You can find out more about [reading at home](http://www.darlinghurst.uk/schoolday/reading-at-home/), including links, on the school website.
+
 ###Writing
 Teachers at Darlinghurst believe that the best writers are also readers – when you read, you learn how stories are made and use this
 in your own writing. And you cannot write well without understanding how language sounds when you speak it. So, speaking and
@@ -621,7 +633,7 @@ and spelling (spelling tests continue up to Year 6).
 >in response to an idea – sometimes linked to the curriculum, but usually a stand-alone piece of creative writing – then mark one
 >another’s work._
 
-###Handwriting
+####Handwriting
 Scientific research shows that learning to write with a pencil or pen on paper teaches young children how to handle objects.
 Handwriting skills also help with reading, because children write down what they are learning in terms of spelling and sentence
 construction. 
@@ -631,7 +643,7 @@ take pride in their work and have a sense of ownership.
 
 You can download an [English grammar and punctuation glossary](http://www.darlinghurst.uk/documents/grammar-glossary.pdf) from the school website. It explains what different terms mean and gives examples of how to use them.
 
-##Maths at Darlinghurst
+##Maths
 
 Darlinghurst uses the [Maths Mastery curriculum](http://www.mathematicsmastery.org/what-we-do/primary-school-programme/), which is based on the idea that children learn better by covering fewer topics, but in greater depth. It teaches understanding rather than
 learning by rote (memorising answers without knowing why they are right). 
@@ -666,7 +678,7 @@ You can find an [overview of the curriculum](http://www.darlinghurst.uk/document
 Under the [Maths](http://www.darlinghurst.uk/school/curriculum/maths/) section of the website, you can also read the school's Maths policies in full, find a [calculation glossary of terms](http://www.darlinghurst.uk/documents/calculation-glossary-of-terms.pdf)
 and see slides from previous maths workshops.
 
-##Music at Darlinghurst
+##Music
 At Darlinghurst, all children from the Nursery through to Year 6 have an opportunity to learn about and make music. The school music
 curriculum introduces children to instruments of the orchestra; storytelling through music; musical theatre, with Year 5 and 6 trips
 to London's West End; styles of music including classical, pop, rock, gospel, jazz and world music; film music; and song-writing,
@@ -761,8 +773,7 @@ Pupils also learn about the key beliefs, teachings and practices of religions an
 about their own experiences and their knowledge of these religions, particularly with reference to questions of identity, belonging,
 meaning, purpose, truth, values and commitment.
 
-##Curriculum contacts
-
+##Curriculum contacts at Darlinghurst
 For more information about the curriculum you can ask the members of staff listed below:
 
 English – Mrs Collison [mrscollison@darlinghurst.co.uk](mrscollison@darlinghurst.co.uk)
@@ -829,17 +840,16 @@ For written work, homework books go into the class homework tray.
 The list below is a general guide to how much homework to expect. 
 
 **Reception**
-Half an hour a week (reading, creative activities to support learning in the Early Years Foundation Stage curriculum)
+* Half an hour a week (reading, creative activities to support learning in the Early Years Foundation Stage curriculum)
 
 **Years 1 and 2**
-1 hour a week (reading, spellings, other literacy and number work)
+* 1 hour a week (reading, spellings, other literacy and number work)
 
 **Years 3 and 4**
-1.5 hours a week (literacy and numeracy as for Years 1 and 2, with occasional assignments in other subjects)
+* 1.5 hours a week (literacy and numeracy as for Years 1 and 2, with occasional assignments in other subjects)
 
 **Years 5 and 6**
-Up to 30 minutes a day (regular weekly schedule, with continued emphasis on literacy and numeracy but also ranging widely over other
-subjects)
+* Up to 30 minutes a day (regular weekly schedule, with continued emphasis on literacy and numeracy but also ranging widely over other subjects)
 
 In addition, children may get small pieces of work to do with clubs and other activities (e.g. French club homework, learning a part for the school play, etc.)
 
@@ -848,10 +858,10 @@ You can find resources to help you help children with reading, writing and maths
 >Darlinghurst School Parent Questionnaire Results 2016 (225 people replied).
 
 >I am happy with the amount and type of work my child is expected to do at home 
->% strongly agreed
->% agreed 
->% disagreed
->% strongly disagreed 
+* % strongly agreed
+* % agreed 
+* % disagreed
+* % strongly disagreed 
 
 Homework will always divide opinion, with some believing there is too much and others too little. Teachers at Darlinghurst believe that education is a joint responsibility between school and parents, and that together we can find the right balance. If you have any concerns, talk to your child’s teacher. 
 
