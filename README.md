@@ -107,7 +107,7 @@ Meeting dates are usually advertised well in advance in the weekly [News & Views
 [Darlinghurst PTA](http://www.darlinghurst.uk/information/darlinghurst-pta/). The school also sends out text message reminders.
 You will get these automatically if you have already registered your mobile number with the School Office.
 
-###What is it about? 
+###What is it for?
 The PTA can use any spare time that you are willing to give. You could be making tea at children's performances, 
 dressing as an elf for the Christmas fair, making cakes or looking after a bouncy castle at an inflatable fun day. Any contributions 
 of time or skills are gratefully received.
@@ -118,8 +118,33 @@ or email [darlinghurstpta@hotmail.com](darlinghurstpta@hotmail.com)
 The PTA is a great way to meet new people and become part of the school community.
 
 ##The Darlinghurst Community Forum
+The Community Forum is a group made up predominantly of, but not limited to, parent volunteers, the Principal and members of staff. 
 
-[To be added]
+###What is it for?
+The Forum is an opportunity for open, positive, respectful discussion about issues that affect the whole school. 
+
+For specific concerns about children, your first point of call should always be their class teacher. For issues to do with staff contact the School Office or email [principal@darlinghurst.co.uk](principal@darlinghurst.co.uk)
+
+Examples of issues that have been discussed include:
+
+* Handwriting
+* Homework
+* Grading and school reports
+* The curriculum
+* School term dates
+* Road safety and safer crossing
+* School building works and plans
+* Clubs and extra-curricular activities
+* Summer School
+
+###How it works
+The Forum runs an active Facebook group. It also meets six times a year. Dates are set each half term so that as many people as possible can attend. Dates are published in News & Views and on the [Calendar page](http://www.darlinghurst.uk/calendar/). Meetings take place at the school during the week, usually between 1.30pm and 3.15pm,
+
+###Contact the Forum
+You can find the [Darlinghurst Community Group](https://m.facebook.com/groups/DarlinghurstCF/) on Facebook. 
+
+If you are not on Facebook and would like to join the Forum, or would like to raise an issue for discussion without becoming a member, email principal@darlinghurst.co.uk
+
 
 ##Workshops for parents 
 
@@ -160,8 +185,8 @@ If you are interested in becoming a governor email [principal@darlinghurst.co.uk
 
 >_The Junior Governors represented Darlinghurst at the **2015 School Council Summit** at Milton Hall Primary School in Southend, to >talk about what they have been doing at Darlinghurst and sharing ideas._
 
-The [Junior Governors](http://www.darlinghurst.uk/policies-and-governance/governors/junior-governors/) are elected by their classmates. They are made up of one girl and one boy from each Key Stage (KS) 2 class. 
-They also represent KS1 classes under a ‘buddy system’, so each KS1 class is linked with a KS2 junior governor. 
+The [Junior Governors](http://www.darlinghurst.uk/policies-and-governance/governors/junior-governors/) are elected by their classmates. They are made up of one girl and one boy from each Key Stage 2 class. 
+They also represent Key Stage 1 classes under a ‘buddy system’, so each Key Stage 1 class is linked with a Key Stage 2 junior governor. 
 
 The Junior Governors make sure that children have a voice in decisions about the school. They meet every two weeks at lunchtime and
 have discussed issues such as healthy eating, homework, and deciding which local charity to support They also take part in
@@ -242,8 +267,8 @@ Research shows that children who miss 17 or more days from school during just on
 * 10 hours of other lessons e.g. science, history, computing
 * 6 hours of social time
 
->_2 weeks' holiday = 50 hours’ learning; 2 weeks holiday and 1 week’s illness = 75 hours’ learning!_
-
+>_2 weeks' holiday = 50 hours’ learning; 2 weeks' holiday and 1 week’s illness = 75 hours’ learning!_
+;
 ##Help and advice
 
 If you need any help or advice about attendance, the school Family Liaison Officer Mr Noades is in school every day and Miss Walton is available in the School Office on Mondays, Tuesdays, Thursdays and Fridays between 8.00am and 4.00pm. You can aloso contact Miss Walton by phone and email:
@@ -284,7 +309,7 @@ Lunch times are staggered:
 
 * Reception: 12.00–1.00pm
 * Key Stage 1: 12.15–1.15pm
-*Key Stage 2: 12.30–1.30pm
+* Key Stage 2: 12.30–1.30pm
 
 ##Breakfast, lunch and afterschool clubs 
 
