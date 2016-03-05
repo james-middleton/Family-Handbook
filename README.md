@@ -115,10 +115,12 @@ of time or skills are gratefully received.
 If you are interested in joining, go to the [PTA page](http://www.darlinghurst.uk/information/darlinghurst-pta/) on the school website or the [PTA’s Facebook page](https://www.facebook.com/Darlinghurst-School-PTA-Leigh-on-Sea-213317208690232/)
 or email [darlinghurstpta@hotmail.com](darlinghurstpta@hotmail.com)
 
+You can also find the [Darlinghurst School PTA](https://m.facebook.com/Darlinghurst-School-PTA-Leigh-on-Sea-213317208690232/) on Facebook.
+
 The PTA is a great way to meet new people and become part of the school community.
 
 ##The Darlinghurst Community Forum
-The Community Forum is a group made up predominantly of, but not limited to, parent volunteers, the Principal and members of staff. 
+The Darlinghurst Community Forum is a group made up predominantly of, but not limited to, parent volunteers, the Principal and members of staff. 
 
 ###What is it for?
 The Forum is an opportunity for open, positive, respectful discussion about issues that affect the whole school. 
