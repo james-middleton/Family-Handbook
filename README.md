@@ -3,7 +3,7 @@
 ##A guide to the school for parents, carers and other family members
 
 #Introduction 
-
+W
 ##Welcome to the Darlinghurst School Family Handbook
 
 This handbook provides information for families on all aspects of school life. The handbook, used together with the school website, outlines the school’s administrative arrangements and policies, as well as information about day-to-day life at Darlinghurst.
@@ -72,7 +72,7 @@ _[Description of roles and responsibilities.]_
 _[Description of role and responsibilities.]_
 
 ###Breakfast, midday and afterschool club supervisors
-Darlinghurst provides ‘wrap-around care’ for children, from XXXXam until XXXXpm. A range of staff and volunteers are dedicated to
+Darlinghurst provides ‘wrap-around care’ for children, from 7.45am until 6.00pm. A range of staff and volunteers are dedicated to
 ensuring children are supervised and kept safe during Breakfast Club, at lunch time, and the Acorns Afterschool Club.
 
 If you would like to become a Midday, contact [principal@darlinghurst.co.uk](principal@darlinghurst.co.uk)
